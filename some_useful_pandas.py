@@ -1,4 +1,4 @@
-
+#1/usr/bin/enc python
 
 # Split header and all rows of df that was not properply delimited,
 # & reassign by proper separation of cells 
