@@ -1,7 +1,41 @@
+ 
+<big><big>
 # nexgendx
 
-### Next-gen sequencing analysis tools for circulating cell-free DNA. 
+</big></big>
+<div align="right">
+<img src="https://c1.staticflickr.com/3/2903/33396363580_b8905436ed_c.jpg" width=850" height=220"></div>
+
+-----------
+
+## Next-gen sequencing analysis tools for circulating cell-free DNA. 
+1. this
+2. that
+3. these
+ - etc
+ - etc 
+
+## Example
+
+```python
+>>> import nexgendx
+>>> # simple command prompt example
+   
+
+```
+
+## Getting Started
+
+## License 
 
 
-<img src="https://c1.staticflickr.com/3/2903/33396363580_b8905436ed_c.jpg" width="620" height="342">
 
+
+
+<br>
+
+
+
+
+---------
+<big>`` Ω 2017 | nexgendx.``     ➉❶①⓪🄵🅡ⓔⓔ🄲ⓞⓓⓔ㊝①❶❿</big>
