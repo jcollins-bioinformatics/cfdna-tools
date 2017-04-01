@@ -1,17 +1,11 @@
  
-#<font size=24>nexgendx.</font>
-
-~~~~py
->>> import nexgendx as ngsdx
->>> # here is 
->>> # an example :) 
->>> ngsdx.teraget(, ngsdx.sqlalcm.con())
-~~~~
-
+<font size=24>nexgendx.
+</font>
+--
 <div align="right">
 <img src="https://c1.staticflickr.com/3/2903/33396363580_b8905436ed_c.jpg" width=950" height=350"></div>
 
-<font size=6>Tools for the nucleosome space.
+<font size=16>Tools for the nucleosome space.
 </font>
 
 
