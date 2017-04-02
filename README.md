@@ -1,7 +1,5 @@
-<html>
-<br>
 <img src="https://c2.staticflickr.com/4/3956/33399799700_20c0287740_o.png" width="800" height="450">
-
+--------------
 ```py
 [bash]~$ python3
 >>> import nexgendx as ngs
@@ -10,6 +8,8 @@
 >>> # do more
 >>> 
 ```
+<br>
+
 --------
 <br>
 
@@ -37,7 +37,9 @@
 
 
 ---------
-<center><big>``⊰⨭Ω⨮⊱ 2017 | J.Collins | nexgendx. ``                          ➉❶①⓪🄵🅡ⓔⓔ🄲ⓞⓓⓔ㊝①❶</big>
+<div align="center">
+<big>
+<code>⊰⨭Ω⨮⊱ 2017 | J.Collins | nexgendx.</code>                          ➉❶①⓪🄵🅡ⓔⓔ🄲ⓞⓓⓔ㊝①❶</big>
 <br>
 <code align='center'>
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -56,11 +58,11 @@ DEEEEEDGGGIIIEJKKKJLKPKGGGGGGGGLGLGLKHHHHHKGGDJHHHHKGGDEJKKKJLKPKGGGGGKAAAAAABBJ
 
 ____
 
-<img src="./doc/design/nucleosome_spacewaves_2.gif" height=375 width=900>
+<img src="./doc/design/nucleosome_spacewaves_1.gif" height=420 width=900>
 
 </center>
 
-## Tools for the nucleosome cell-free space.
+## Tools for the nucleosome cell-free DNA space.
 ____
 
 
