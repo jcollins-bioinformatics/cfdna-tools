@@ -2,9 +2,6 @@
 <br>
 <img src="https://c2.staticflickr.com/4/3956/33399799700_20c0287740_o.png" width="800" height="450">
 
------------
-<br>
-
 ```py
 [bash]~$ python3
 >>> import nexgendx as ngs
@@ -41,9 +38,8 @@
 
 
 ---------
-<center><big>`` ⊰⨭Ω⨮⊱  2017  |  J.Collins  |  nexgendx. ``               ➉❶①⓪🄵🅡ⓔⓔ🄲ⓞⓓⓔ㊝①❶❿</big>
-
-<br>
+<big>``⊰⨭Ω⨮⊱ 2017 | J.Collins  nexgendx.``            ➉❶①⓪🄵🅡ⓔ ⓔ🄲ⓞⓓⓔ㊝①❶❿      
+ </big><center>
 
 <code align="center">
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -58,7 +54,7 @@ DEEEEEDGGGIIIEJKKKJLKPKGGGGGGGGLGLGLKHHHHHKGGDJHHHHKGGDEJKKKJLKPKGGGGGKAAAAAABBJ
 <br>
 
 ____
-<center><img src="https://c1.staticflickr.com/3/2903/33396363580_b8905436ed_c.jpg" align="center" width=950 height=420>
+<img src="https://c1.staticflickr.com/3/2903/33396363580_b8905436ed_c.jpg" align="center" width=950 height=400>
 </center>
 
 ## Tools for the nucleosome space.
