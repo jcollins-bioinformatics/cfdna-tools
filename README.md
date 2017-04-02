@@ -10,7 +10,8 @@
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 </code>
 </center>
-## **__...Tools for the nucleosome space.__**
+
+## ...Tools for the nucleosome space.
 
 ```python
 [bash]~$ python3
