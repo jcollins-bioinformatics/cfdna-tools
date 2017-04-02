@@ -55,10 +55,12 @@ DEEEEEDGGGIIIEJKKKJLKPKGGGGGGGGLGLGLKHHHHHKGGDJHHHHKGGDEJKKKJLKPKGGGGGKAAAAAABBJ
 <br>
 
 ____
-<img src="https://c1.staticflickr.com/3/2903/33396363580_b8905436ed_c.jpg" width=950 height=430>
+
+<img src="/Users/jcollins-macbook/Documents/iCloud-cfDNA/cfdna-tools/doc/design/nucleosome_spacewaves_2.gif" height=375 width=900>
+
 </center>
 
-## Tools for the nucleosome space.
+## Tools for the nucleosome cell-free space.
 ____
 
 
