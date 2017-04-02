@@ -1,14 +1,9 @@
 <html>
-<img src="https://c2.staticflickr.com/4/3956/33399799700_20c0287740_o.png" width="800" height="450">
-<br>
-_____
-<center><img src="https://c1.staticflickr.com/3/2903/33396363580_b8905436ed_c.jpg" align="center" width=950 height=410>
-</center>
-<br>
 
-# Tools for the nucleosome space.
+_____
+
 <br>
-_______
+<img src="https://c2.staticflickr.com/4/3956/33399799700_20c0287740_o.png" width="800" height="450">
 <br>
 
 ```py
@@ -47,9 +42,10 @@ _______
 
 
 ---------
-<big>`` ⊰⨭Ω⨮⊱  2017 | J.Collins | nexgendx. ``     ➉❶①⓪🄵🅡ⓔⓔ🄲ⓞⓓⓔ㊝①❶❿</big>
+<center><big>`` ⊰⨭Ω⨮⊱  2017  |  J.Collins  |  nexgendx. ``               ➉❶①⓪🄵🅡ⓔⓔ🄲ⓞⓓⓔ㊝①❶❿</big>
 
-<div align="center">
+<br>
+
 <code align="center">
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 𝝘𝝝𝝝𝝘𝝩𝝝𝝘𝝖𝝝𝝩𝝩𝝝𝝖𝝩𝝖𝝖𝝝𝝩𝝩𝝝𝝩𝝩𝝩𝝝𝝘𝝖𝝝𝝩𝝩𝝝𝝩𝝖𝝖𝝝𝝩𝝩𝝝𝝩𝝖𝝖𝝝𝝖𝝖𝝝𝝩𝝩𝝝𝝩𝝖𝝖𝝝𝝩𝝩𝝝𝝩𝝩𝝩𝝝𝝘𝝩𝝝𝝘𝝖𝝘𝝖𝝖𝝩𝝝𝝝𝝘
@@ -57,8 +53,17 @@ _______
 DEEEEEDGGGIIIEJKKKJLKPKGGGGGGGGLGLGLKHHHHHKGGDJHHHHKGGDEJKKKJLKPKGGGGGKAAAAAABBJ
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 </code>
-</dv>
-
 
 <h6>[logo image source for cartoon nucleosome]:</h6>
 #### See <a href="https://pdb101.rcsb.org/motm/7">Protein DataBank's Educational Portal</a> for more about nucleosomes.
+<br>
+
+____
+<center><img src="https://c1.staticflickr.com/3/2903/33396363580_b8905436ed_c.jpg" align="center" width=950 height=420>
+</center>
+
+## Tools for the nucleosome space.
+____
+
+
+
