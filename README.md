@@ -37,18 +37,15 @@
 
 
 ---------
-<center>
-<big>`` ⊰⨭Ω⨮⊱ 2017 | J.Collins | nexgendx. ``                             ➉❶①⓪🄵🅡ⓔⓔ🄲ⓞⓓⓔ㊝①❶</big>
-
+<center><big>``⊰⨭Ω⨮⊱ 2017 | J.Collins | nexgendx. ``                          ➉❶①⓪🄵🅡ⓔⓔ🄲ⓞⓓⓔ㊝①❶</big>
 <br>
-
->``
+<code align='center'>
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 𝝘𝝝𝝝𝝘𝝩𝝝𝝘𝝖𝝝𝝩𝝩𝝝𝝖𝝩𝝖𝝖𝝝𝝩𝝩𝝝𝝩𝝩𝝩𝝝𝝘𝝖𝝝𝝩𝝩𝝝𝝩𝝖𝝖𝝝𝝩𝝩𝝝𝝩𝝖𝝖𝝝𝝖𝝖𝝝𝝩𝝩𝝝𝝩𝝖𝝖𝝝𝝩𝝩𝝝𝝩𝝩𝝩𝝝𝝘𝝩𝝝𝝘𝝖𝝘𝝖𝝖𝝩𝝝𝝝𝝘
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 DEEEEEDGGGIIIEJKKKJLKPKGGGGGGGGLGLGLKHHHHHKGGDJHHHHKGGDEJKKKJLKPKGGGGGKAAAAAABBJ
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-``
+</code>
 <br>
 
 <h6>[logo image source for cartoon nucleosome]:</h6>
@@ -58,7 +55,7 @@ DEEEEEDGGGIIIEJKKKJLKPKGGGGGGGGLGLGLKHHHHHKGGDJHHHHKGGDEJKKKJLKPKGGGGGKAAAAAABBJ
 <br>
 
 ____
-<img src="https://c1.staticflickr.com/3/2903/33396363580_b8905436ed_c.jpg" align="center" width=950 height=420>
+<img src="https://c1.staticflickr.com/3/2903/33396363580_b8905436ed_c.jpg" width=950 height=430>
 </center>
 
 ## Tools for the nucleosome space.
