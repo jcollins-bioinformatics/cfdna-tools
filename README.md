@@ -1,6 +1,8 @@
 # **__nexgendx__** 
 -----------------------
-<center><code>++++++++++++++++++++++++++++++++++++++++++++++++++++
+<div align="center">
+<code>
+++++++++++++++++++++++++++++++++++++++++++++++++++++
 𝝘𝝝𝝝𝝘𝝩𝝝𝝘𝝖𝝝𝝩𝝩𝝝𝝖𝝘𝝖𝝝𝝩𝝩𝝝𝝩𝝖𝝖𝝝𝝩𝝩𝝝𝝩𝝖𝝖𝝝𝝖𝝖𝝝𝝩𝝩𝝝𝝩𝝖𝝖𝝝𝝩𝝩𝝝𝝩𝝩
 ++++++++++++++++++++++++++++++++++++++++++++++++++++
 DEEEEEDGGGIIIGGGGLGLGLKHHHHHKGGDJHHHHKGGDEJKKKJLKPKL
@@ -9,7 +11,9 @@ DEEEEEDGGGIIIGGGGLGLGLKHHHHHKGGDJHHHHKGGDEJKKKJLKPKL
 ++++++++++++++++++++++++++++++++++++++++++++++++++++
 GGGGGKAAAAAABBBDDGJDDDDGGIIGKHHHHBBGGGXXXCCCCCDDDJDD
 ++++++++++++++++++++++++++++++++++++++++++++++++++++
-</code></center>
+</code>
+</div>
+
 <img src="https://c1.staticflickr.com/3/2903/33396363580_b8905436ed_c.jpg" align="center" width=900 height=400>
 
 ## ...Tools for the nucleosome space.
