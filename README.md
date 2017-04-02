@@ -56,7 +56,7 @@ DEEEEEDGGGIIIEJKKKJLKPKGGGGGGGGLGLGLKHHHHHKGGDJHHHHKGGDEJKKKJLKPKGGGGGKAAAAAABBJ
 
 ____
 
-<img src="/Users/jcollins-macbook/Documents/iCloud-cfDNA/cfdna-tools/doc/design/nucleosome_spacewaves_2.gif" height=375 width=900>
+<img src="./doc/design/nucleosome_spacewaves_2.gif" height=375 width=900>
 
 </center>
 
