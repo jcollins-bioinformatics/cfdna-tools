@@ -1,16 +1,17 @@
 # **__nexgendx__** 
------------------------
-<img src="https://c1.staticflickr.com/3/2903/33396363580_b8905436ed_c.jpg" align="center" width=900 height=400>
 
-## Tools for the nucleosome space.
+<img src="https://c1.staticflickr.com/3/2903/33396363580_b8905436ed_c.jpg" align="center" width=900 height=430>
+
+# Tools for the nucleosome space.
+-----------------------
 
 <br>
 
 ```py
 [bash]~$ python3
->>> import nexgendx ngsdx
+>>> import nexgendx as ngs
 >>> # simple command prompt example
->>> tumor_genome = ngsdx.teraget(, con=ngsdx.sqlalcmy(...))
+>>> tumor_genome = ngs.teraget(, con=ngs.sqlalcmy(...))
 >>> # do more
 >>> 
 
