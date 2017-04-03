@@ -34,29 +34,11 @@ import warnings
 
 ### FUNCTIONS
 
-def deprecated(func):
-    '''This is a decorator which can be used to mark functions
-       as deprecated. It will result in a warning being emitted
-       when the function is used.'''
-    def new_func(*args, **kwargs):
-        if not new_func.__called:
-            warnings.warn('Call to deprecated function "{0}".'.format(func.__name__),
-                          stacklevel=2)
-            new_func.__called = True
-        return func(*args, **kwargs)
-    new_func.__name__ = func.__name__
-    new_func.__doc__ = func.__doc__
-    new_func.__dict__.update(func.__dict__)
-    new_func.__called = False
-    return new_func
-
-
 def get_duplicates(input_list):
     '''Count the number of occurences for items in list and return as 
        tuple.'''
     count_dict = Counter(input_list)
     return [(item,count) for item,count in count_dict.iteritems() if count > 1]
-
 
 def get_tert_by_sample(Oracle_con):
     '''Uses received cx_Oracle connection object to download and merge
@@ -66,13 +48,11 @@ def get_tert_by_sample(Oracle_con):
     df = pd.merge(df_T1, df_T2, on=['SAMPLENAME', 'RUN_ID'])
     return df
 
-
 def pandas_markdown_df(df, columns):
   '''Export pandas DataFrame as HTML file.'''
   html_table = df.to_html(max_cols=15, justify='right', header=None, 
                           names=columns)
   return html_table
-
 
 def print_progress(message, init, n_smpls):
     '''Print to sys.stderr execution time & given update message.'''
@@ -81,26 +61,19 @@ def print_progress(message, init, n_smpls):
           message+str(round(time.time()-init,5))+" s", "N(smpls) = " + 
           str(n_smpls), banner), file=sys.stderr)
 
-
-def print_sample_stats(df):
+def print_sample_stats(df, use_this_cols):
     '''Print pd.DataFrame description stats for core columns.'''
-    use_these_cols = ['SEQUENCER', 'RUNNAME', 'EXPERIMENTNAME', 'TOTALCOVERAGE',
-                      'COVERAGEVARIABILITY', 'NUMSNPSPASSQC', 'OVERALLBACKGROUND',
-                      'RESULT', 'PASS']
     df = df.loc[:,use_these_cols]
     # \033[95m  \033[0m
-    print("\n\n\033[31m{:^150s}\033[0m\n\n".format(" * "*5+"      "+' '.join(
-                                                   [x for x in 'Sample Stats']) 
-                                                   + "      "+" * "*5), 
-                                                   file=sys.stderr)
-    print(df.describe(include='all', percentiles=[0.05, 0.25, 0.5, 0.75, 0.95]), 
-                      file=sys.stderr)
-
+    print("\n\n\033[31m{:^150s}\033[0m\n\n".format(
+          " * "*5+"      "+' '.join([x for x in 'Sample Stats']) 
+          + "      "+" * "*5), 
+          file=sys.stderr)
+    print(df.describe(include='all',), file=sys.stderr)
 
 def sort_dict(input_dict, index=0):
     '''Return dictionary as list of tuples sorted by keys.'''
     return sorted(input_dict.iteritems(), key=itemgetter(index))
-
 
 def to_percent(y, position):
     '''Use with matplotlib FuncFormatter to convert an axis label to 
@@ -108,14 +81,12 @@ def to_percent(y, position):
     s = str(100 * y)
     return s + '%'
 
-
 def use_Helvetica():
     '''Use Helevetica as matplotlib default font type instead of 
        Bitstream Vera Sans. Returned object must be given to 
        mpl.FuncFormatter.'''
     prop = mpl.font_manager.FontProperties(fname=path)
     return prop.get_name()
-
 
 
 ### COLOR PALETTES

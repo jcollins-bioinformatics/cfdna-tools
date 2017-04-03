@@ -44,7 +44,7 @@
 ## Tools for the nucleosome cell-free DNA space.
 
 
-``⊰♘⚔⊱ 2017 | J.Collins | ⚕ nexgendx.``                  ➉❶①⓪🄵🅡ⓔⓔ🄲🅾ⓓⓔ㊝①➓➀
+<b>``⊰♘⚔⊱ 2017 | J.Collins | ⚕ nexgendx.``</b>                        ➉❶①⓪🄵🅡ⓔⓔ🄲🅾ⓓⓔ㊝①➓➀
 
 <br>
 
