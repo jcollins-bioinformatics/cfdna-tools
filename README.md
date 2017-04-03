@@ -43,11 +43,11 @@
 
 ## Tools for the nucleosome cell-free DNA space.
 
-<big>
-<code>⊰⨭♘∞⚔⨮⊱ 2017 | J.Collins | ⚕ nexgendx.</code>                           ➉❶☕︎①⓪🄵🅡ⓔⓔ🄲🅾ⓓⓔ㊝①➓➀
-</big>
+<big><big>
+<code>⊰⨭♘∞⚔⨮⊱ 2017 | J.Collins | ⚕ nexgendx.</code>                                     ➉❶☕︎①⓪🄵🅡ⓔⓔ🄲🅾ⓓⓔ㊝①➓➀
+</big></big>
 
-<br>
+<br><br>
 
 ~~~py
 (1*2^8 + 0*2^7 + 1*2^6 + 1*2^5 + 0*2^4 + 1*2^3 + 1*2^2 + 0*2^1 + 1*2^0) = 365
