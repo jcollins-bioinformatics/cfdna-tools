@@ -61,7 +61,7 @@
 
 
 <br>
-</div>
+
 
 -----------
 
@@ -70,11 +70,12 @@
 
 ## Tools for the nucleosome cell-free DNA space.
 
-<br><center><br>
+<br><br>
 
 <h6>[logo image source]:</h6>
 <h4>See <a href="https://pdb101.rcsb.org/motm/7">Protein DataBank's Educational Portal</a> for more about nucleosomes.</h4>
-<center>
+
+</div
 <br>
 
 
