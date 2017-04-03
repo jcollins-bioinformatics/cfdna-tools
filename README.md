@@ -44,7 +44,7 @@
 ## Tools for the nucleosome cell-free DNA space.
 
 
-#### ``⊰♘𐌸⚔⊱ 2017 | J.Collins | nexgendx.``     𐃠       ➉❶①⓪🄵🅡ⓔⓔ🄲🅾ⓓⓔ㊝①➓➀
+### ``⊰♘𐌸⚔⊱ 2017 | J.Collins | nexgendx.``         ⚕         ➉❶①⓪🄵🅡ⓔⓔ🄲🅾ⓓⓔ㊝①➓➀
 
 ~~~py
 (1*2^8 + 0*2^7 + 1*2^6 + 1*2^5 + 0*2^4 + 1*2^3 + 1*2^2 + 0*2^1 + 1*2^0) = 365
@@ -56,11 +56,12 @@
 ``DAEEEEDGGGIIIEJKKKJLKPKGGGGGGGGLGLGLKHHHHHKGGDJHHHHKGGDEJKKKJLKPKGGGGGKAAAAAABBJ``
 ``@+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
 
-<br>
-# ⚕
+<br> 
 
 <h6>[logo image source]:</h6>
 <h4>See <a href="https://pdb101.rcsb.org/motm/7">Protein DataBank's Educational Portal</a> for more about nucleosomes.</h4>
+
+# 𐃠
 
 </div
 <br>
