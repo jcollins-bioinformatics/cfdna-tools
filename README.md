@@ -66,7 +66,7 @@
 
 <br>
 
-<img src="./doc/design/nucleosome_spacewaves_1.gif" height=380 width=850>
+<img src="./doc/design/nucleosome_spacewaves_1.gif">
 
 </div>
 
