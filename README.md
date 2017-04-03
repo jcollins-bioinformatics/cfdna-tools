@@ -13,8 +13,6 @@
 
 <br>
 
-<br>
-
 ## Next-gen sequencing analysis tools for circulating cell-free DNA. 
 1. this
 2. that
@@ -49,6 +47,7 @@
 <code>⊰⨭♘∞⚔⨮⊱ 2017 | J.Collins | ⚕ nexgendx.</code>                           ➉❶☕︎①⓪🄵🅡ⓔⓔ🄲🅾ⓓⓔ㊝①➓➀
 </big>
 
+<br>
 
 ~~~py
 (1*2^8 + 0*2^7 + 1*2^6 + 1*2^5 + 0*2^4 + 1*2^3 + 1*2^2 + 0*2^1 + 1*2^0) = 365
@@ -60,6 +59,7 @@
 ``DEEEEEDGGGIIIEJKKKJLKPKGGGGGGGGLGLGLKHHHHHKGGDJHHHHKGGDEJKKKJLKPKGGGGGKAAAAAABBJ``
 ``++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
 
+<br>
 
 <h6>[logo image source]:</h6>
 <h4>See <a href="https://pdb101.rcsb.org/motm/7">Protein DataBank's Educational Portal</a> for more about nucleosomes.</h4>
