@@ -1,5 +1,5 @@
-<center><img src="https://c2.staticflickr.com/4/3956/33399799700_20c0287740_o.png" width="640" height="350" align="center">
-</center>
+<img src="https://c2.staticflickr.com/4/3956/33399799700_20c0287740_o.png" width="800" height="450">
+
 <br>
 
 ```py
