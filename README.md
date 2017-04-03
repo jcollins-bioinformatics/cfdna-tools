@@ -37,14 +37,14 @@
 
 
 ---------
-<div align="center">
+
 
 <img src="./doc/design/nucleosome_spacewaves_1.gif">
 
 ## Tools for the nucleosome cell-free DNA space.
+<div align="center">
 
-
-<b>``⊰♘⚔⊱ 2017 | J.Collins | ⚕ nexgendx.``</b>                        ➉❶①⓪🄵🅡ⓔⓔ🄲🅾ⓓⓔ㊝①➓➀
+``⊰♘⚔⊱ 2017 | J.Collins | ⚕ nexgendx.``                              ➉❶①⓪🄵🅡ⓔⓔ🄲🅾ⓓⓔ㊝①➓➀
 
 <br>
 
