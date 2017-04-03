@@ -1,4 +1,4 @@
-<img src="https://c2.staticflickr.com/4/3956/33399799700_20c0287740_o.png" width="800" height="450">
+<img src="./doc/design/nexgendx_logo.png">
 
 <br>
 
@@ -66,7 +66,7 @@
 
 <br>
 
-<img src="./doc/design/nucleosome_spacewaves_1.gif" height=420 width=900>
+<img src="./doc/design/nucleosome_spacewaves_1.gif" height=380 width=850>
 
 </div>
 
