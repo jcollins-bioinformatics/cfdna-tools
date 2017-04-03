@@ -6,7 +6,7 @@
 ### Genocord
 [Geno]type con[cord]ance:
 
-### Nuclanote:
+### Nuclanote
 [Nucl]eotide [a]n[not]ation [e]valuation: 
 
 ### Panomatic 
@@ -17,8 +17,8 @@
 of precision, background estimation, error estimation and correction, genotype call confidence scoring, and filtering of 
 fail-QC variant sites to be flagged in output. 
 
-### Sinuvysis ("sī-NEW-vuh-sys")
-[Si]ngle [nu]cleotide [v]ariant anal[ysis]: 
+### Sinuvysis
+[Si]ngle [nu]cleotide [v]ariant anal[ysis] ("sī-NEW-vuh-sys"): 
 
 ### Somation
 [S]ummarization of s[om]atic mut[ation]s: ...
