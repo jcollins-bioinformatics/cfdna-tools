@@ -1,5 +1,7 @@
 <img src="https://c2.staticflickr.com/4/3956/33399799700_20c0287740_o.png" width="800" height="450">
+
 --------------
+
 ```py
 [bash]~$ python3
 >>> import nexgendx as ngs
@@ -8,6 +10,7 @@
 >>> # do more
 >>> 
 ```
+
 <br>
 
 --------
@@ -40,16 +43,14 @@
 <div align="center">
 <big>
 <code>⊰⨭Ω⨮⊱ 2017 | J.Collins | nexgendx.</code>                          ➉❶①⓪🄵🅡ⓔⓔ🄲ⓞⓓⓔ㊝①❶</big>
+
 <br>
 
-~~~python
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+<code>++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 𝝘𝝝𝝝𝝘𝝩𝝝𝝘𝝖𝝝𝝩𝝩𝝝𝝖𝝩𝝖𝝖𝝝𝝩𝝩𝝝𝝩𝝩𝝩𝝝𝝘𝝖𝝝𝝩𝝩𝝝𝝩𝝖𝝖𝝝𝝩𝝩𝝝𝝩𝝖𝝖𝝝𝝖𝝖𝝝𝝩𝝩𝝝𝝩𝝖𝝖𝝝𝝩𝝩𝝝𝝩𝝩𝝩𝝝𝝘𝝩𝝝𝝘𝝖𝝘𝝖𝝖𝝩𝝝𝝝𝝘
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 DEEEEEDGGGIIIEJKKKJLKPKGGGGGGGGLGLGLKHHHHHKGGDJHHHHKGGDEJKKKJLKPKGGGGGKAAAAAABBJ
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-~~~
-
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++</code>
 <br>
 
 <h6>[logo image source]:</h6>
@@ -59,9 +60,9 @@ DEEEEEDGGGIIIEJKKKJLKPKGGGGGGGGLGLGLKHHHHHKGGDJHHHHKGGDEJKKKJLKPKGGGGGKAAAAAABBJ
 
 <img src="./doc/design/nucleosome_spacewaves_1.gif" height=420 width=900>
 
-</dijkv>
+</div>
 
-# Tools for the nucleosome cell-free DNA space.
+## Tools for the nucleosome cell-free DNA space.
 ____
 
 
