@@ -17,7 +17,7 @@
 of precision, background estimation, error estimation and correction, genotype call confidence scoring, and filtering of 
 fail-QC variant sites to be flagged in output. 
 
-### Sinuvysis ("si-NEW-vuh-sys")
+### Sinuvysis ("sī-NEW-vuh-sys")
 [Si]ngle [nu]cleotide [v]ariant anal[ysis]: 
 
 ### Somation
