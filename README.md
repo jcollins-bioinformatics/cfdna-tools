@@ -1,4 +1,4 @@
-<img src="./doc/design/nexgendx_logo.png" width=67%>
+<img src="./doc/design/nexgendx_logo.png" width=87%>
 
 <br>
 
