@@ -42,7 +42,7 @@
 ---------
 <div align="center">
 <big>
-<code>⊰⨭♘∞⚔⨮⊱ 2017 | J.Collins | ⚕ nexgendx.</code>                     ➉❶☕︎①⓪🄵🅡ⓔⓔ🄲🅾ⓓⓔ㊝①➓➀
+<code>⊰⨭♘∞⚔⨮⊱ 2017 | J. Collins | ⚕nexgendx.</code>                     ➉❶☕︎①⓪🄵🅡ⓔⓔ🄲🅾ⓓⓔ㊝①➓➀
 </big>
 
 <br>
