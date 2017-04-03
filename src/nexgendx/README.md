@@ -25,6 +25,8 @@ fail-QC variant sites to be flagged in output.
 
 <br>
 
-<center>
+<div align="center">
+
 ## 𐃠
-</center>
+
+</div>
