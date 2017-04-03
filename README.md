@@ -41,7 +41,7 @@
 ---------
 <div align="center">
 <big>
-<code>⊰⨭♘∞⚔⨮⊱ 2017 | J.Collins | ⚕ nexgendx.</code>                     ➉❶☕︎①⓪🄵🅡ⓔⓔ🄲🅾ⓓⓔ㊝①➓➀
+<code>⊰⨭♘∞⚔⨮⊱ 2017 | J.Collins | ⚕ nexgendx.</code>                           ➉❶☕︎①⓪🄵🅡ⓔⓔ🄲🅾ⓓⓔ㊝①➓➀
 </big>
 
 <br>
@@ -65,10 +65,12 @@
 <h4>See <a href="https://pdb101.rcsb.org/motm/7">Protein DataBank's Educational Portal</a> for more about nucleosomes.</h4>
 
 <br>
+</div>
+
+-----------
 
 <img src="./doc/design/nucleosome_spacewaves_1.gif">
 
-</div>
 
 ## Tools for the nucleosome cell-free DNA space.
 ____
