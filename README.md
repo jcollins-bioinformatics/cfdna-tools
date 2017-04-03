@@ -44,11 +44,10 @@
 <big>
 <code>⊰⨭Ω⨮⊱ 2017 | J.Collins | nexgendx.</code>                          ➉❶①⓪🄵🅡ⓔⓔ🄲ⓞⓓⓔ㊝①❶
 </big>
-</div>
+
 <br>
 <br>
 
-<center>
 
 ``++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
 ``𝝘𝝝𝝝𝝘𝝩𝝝𝝘𝝖𝝝𝝩𝝩𝝝𝝖𝝩𝝖𝝖𝝝𝝩𝝩𝝝𝝩𝝩𝝩𝝝𝝘𝝖𝝝𝝩𝝩𝝝𝝩𝝖𝝖𝝝𝝩𝝩𝝝𝝩𝝖𝝖𝝝𝝖𝝖𝝝𝝩𝝩𝝝𝝩𝝖𝝖𝝝𝝩𝝩𝝝𝝩𝝩𝝩𝝝𝝘𝝩𝝝𝝘𝝖𝝘𝝖𝝖𝝩𝝝𝝝𝝘``
@@ -65,7 +64,7 @@
 
 <img src="./doc/design/nucleosome_spacewaves_1.gif" height=420 width=900>
 
-</center>
+</div>
 
 ## Tools for the nucleosome cell-free DNA space.
 ____
