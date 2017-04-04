@@ -112,7 +112,7 @@ ngs.firegrail.waterfalls(samples, vcf, [...])
 ~~~
 
 # Nuclanote
-Nucl]eotide [a]n[not]ation [e]valuation: 
+[Nucl]eotide [a]n[not]ation [e]valuation: 
 
 * ...
 * detail stuff
