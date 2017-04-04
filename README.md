@@ -13,9 +13,11 @@
 
 <br>
 
-<center><h1> Next-gen sequencing analysis tools for
-circulating cell-free DNA. <h1>
-</center>
+
+<h1 align="center">
+Next-gen sequencing analysis tools for
+circulating cell-free DNA.
+</h1>
 
 1. this
 2. that
