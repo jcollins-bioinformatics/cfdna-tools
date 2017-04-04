@@ -28,11 +28,11 @@ Verb
 γίγνομαι • (gígnomai)
 
 to come into being
-(of people) to be born
-(of things) to be produced
-(of events) to take place
-(followed by a predicate) to become
-(aorist participle) having ceased to be: former, ex-
+(of people) to be born : 
+(of things) to be produced : 
+(of events) to take place : 
+(followed by a predicate) to become : 
+(aorist participle) having ceased to be: former, ex- : 
 ὁ γενόμενος στρατηγός
 ho genómenos stratēgós
 the ex-general
@@ -40,18 +40,18 @@ the ex-general
 regular, normal, usual
 
 Pronunciation
-(5th BC Attic) IPA(key): /ɡí.ɡno.ma͜i/
-(1st BC Egyptian) IPA(key): /ˈɡi.ɡno.mɛ/
-(4th AD Koine) IPA(key): /ˈɣi.ɣno.mɛ/
-(10th AD Byzantine) IPA(key): /ˈʝi.ɣno.me/
-(15th AD Constantinopolitan) IPA(key): /ˈʝi.ɣno.me/
+* (5th BC Attic) IPA(key): /ɡí.ɡno.ma͜i/
+* (1st BC Egyptian) IPA(key): /ˈɡi.ɡno.mɛ/
+* (4th AD Koine) IPA(key): /ˈɣi.ɣno.mɛ/
+* (10th AD Byzantine) IPA(key): /ˈʝi.ɣno.me/
+* (15th AD Constantinopolitan) IPA(key): /ˈʝi.ɣno.me/
 
 Related terms
-γένος (génos, “kind”)
-γένεσις (génesis, “origin”)
-γενεᾱ́ (geneā́, “descent”)
-γόνος (gónos, “offspring, begetting”)
-γεννάω (gennáō, “beget”)
+* γένος (génos, “kind”)
+* γένεσις (génesis, “origin”)
+* γενεᾱ́ (geneā́, “descent”)
+* γόνος (gónos, “offspring, begetting”)
+* γεννάω (gennáō, “beget”)
 
 </div>
 
