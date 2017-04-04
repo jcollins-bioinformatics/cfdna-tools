@@ -53,6 +53,7 @@ Dependencies:
  - ``pandas``
  - ``plotly``
  - ``seaborn``
+ - ``SQLAlchemy``*
 
 <br>
 
