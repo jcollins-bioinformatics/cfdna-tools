@@ -26,15 +26,9 @@
 ## Getting Started
 
 Dependencies:
-
-<a href="">``bedtools``</a>
-
-<br>
-
-<a href="">``BWA``</a>
-
-<br>
-
+ - <a href="">``bedtools``</a>
+ - <a href="">``BWA``</a>
+ 
 > from <a href="">htslib</a>: 
  - ``faidx + samtools + bcftools``
  
