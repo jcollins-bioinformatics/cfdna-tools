@@ -21,8 +21,7 @@
 <div align="right">
 <i>See also:</i> <b><a href="https://www.google.com/search?rls=en&q=gen%C3%A8tic" title="genètic"> genètic</a></b>
 <p>From <span class="etylcleanup"><span class="etyl"><a href="https://en.wikipedia.org/wiki/Ancient_Greek_language" class="extiw" title="w:Ancient Greek language">Ancient Greek</a></span></span> <i class="polytonic mention" lang="grc" xml:lang="grc"><a href="https://www.google.com/search?rls=en&q=%CE%B3%CE%AD%CE%BD%CE%B5%CF%83%CE%B9%CF%82#Ancient_Greek" title="γένεσις">γένεσις</a></i> <span class="mention-gloss-paren">(</span><span lang="" class="tr mention-tr" xml:lang="">génesis</span>, <span class="mention-gloss-double-quote">“</span><span class="mention-gloss">origin</span><span class="mention-gloss-double-quote">”</span><span class="mention-gloss-paren">)</span>. <br>Ultimately from <i class="polytonic mention" lang="grc" xml:lang="grc"><a href="https://www.google.com/search?rls=en&q=%CE%B3%CE%AF%CE%B3%CE%BD%CE%BF%CE%BC%CE%B1%CE%B9#Ancient_Greek" title="γίγνομαι">γίγνομαι</a></i> <span class="mention-gloss-paren">(</span><span lang="" class="tr mention-tr" xml:lang="">gígnomai</span>, 
-<span class="mention-gloss-double-quote">“</span><span class="mention-gloss">I come into being</span><span class="mention-gloss-double-quote">”</span><span class="mention-gloss-paren">)</span>.</p>
-<br><h4> IPA(key): /ɡí.ɡno.ma͜i/ → /ˈɣi.ɣno.mɛ/ → /ˈʝi.ɣno.me/</h4>
+<span class="mention-gloss-double-quote">“</span><span class="mention-gloss">I come into being</span><span class="mention-gloss-double-quote">”</span><span class="mention-gloss-paren">)</span>.</p><h4> IPA(key): /ɡí.ɡno.ma͜i/ → /ˈɣi.ɣno.mɛ/ → /ˈʝi.ɣno.me/</h4>
 </div>
 <div align="left">
 <h4>Verb   γίγνομαι • (gígnomai) </h4>
@@ -55,15 +54,19 @@ regular, normal, usual
 <b><a href="https://www.google.com/search?rls=en&q=γεννάω">γεννάω</a></b> (gennáō, “beget”)
 </div>
 <div align="left">
-# 5. Soma-
+<h1> 5. Soma-</h1>
 <b>σῶμα • (sôma) n</b> (genitive σώματος); third declension<br>
+<b>σώμα (sóma, “body”) + -τικός (-tikós)</b><br>
 1. body (both that of people and animals)<br>
 2. (Epic and often in other early works) dead body<br>
 3. One's life in the physical world<br>
 4. That which is material (as opposed to spiritual)<br>
 person<br>
 5. An entire thing<br>
-6. (mathematics) three-dimensional object<br>
+6. (mathematics) three-dimensional object<br><br>
+<h4>σωματικός • (somatikós) m (feminine σωματική, neuter σωματικό)</h4>
+physical, bodily, corporal (relating to the body)<br>
+Έφυγα από τη μέση για να προστατέψω τη σωματική ακεραιότητά μου.‎ ― Éfyga apó ti mési gia na prostatépso ti somatikí akeraiótitá mou. ― I got out of the way in order to protect my physical integrity.
 </div>
 <br>
 
