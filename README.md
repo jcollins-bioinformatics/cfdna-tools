@@ -66,10 +66,10 @@ Dependencies:
 <br>
 
 Example datasets:
-> - <a href="">FTP download / AWS access from NCBI</a>
-  * Genome in a Bottle Consortium pilot genome reference standard NA12878
-  * <a href="">2016 12-platform highly orthogonally validated high-confidence region genotype determination for use as "gold standard" in benchmarking NGS error (i.e. false-positives rate, sensitivity/specificity, etc.)
-  * 
+> <a href="">FTP download / AWS access from NCBI</a>
+>  * Genome in a Bottle Consortium pilot genome reference standard NA12878
+>  * <a href="">2016 12-NGS-platform (Illumina, Oxford Nanopore, 10X Genomics, Thermo Fisher Ion Torrent, PacBio, BioNano, CompleteGenomics, etc.) highly orthogonally validated genotype determination for high-confidence regiosn, useful as a new "gold standard" for benchmarking NGS error (i.e. false-positives rate, sensitivity/specificity, etc.) in an unbiased fashion.
+>  * See notebooks folder under example to follow along with some basic analysis workflows harnessing the ``nexgendx`` tool suite
 
 
 ## License 
