@@ -56,7 +56,7 @@ regular, normal, usual
 <b><a href="https://www.google.com/search?rls=en&q=γεννάω">γεννάω</a></b> (gennáō, “beget”)
 </div>
 <div align="left">
-<h1> 5. Soma-</h1>
+<h1> 5. soma-</h1>
 <b>σῶμα • (sôma) n</b> (genitive σώματος); third declension<br>
 <ol>
 <li><a href="/wiki/body" title="body">body</a> (both that of people and animals)
@@ -72,7 +72,7 @@ regular, normal, usual
 </ol>
 </div>
 <div align="right">
-<h4><i>somatic</i></h4>
+<h3><i>somatic</i></h3>
 σώμα (sóma, “body”) + -τικός (-tikós)</b><br>
 <b>σωματικός • (somatikós)</b> m (feminine σωματική, neuter σωματικό)
 physical, bodily, corporal (relating to the body)<br>
