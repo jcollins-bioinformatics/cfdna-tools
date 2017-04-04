@@ -25,19 +25,45 @@
 
 ## Getting Started
 
+Dependencies:
+<a href="">``bedtools``</a>
+
+<a href="">``BWA``</a>
+
+> from <a href="">htslib</a>: 
+ - <a href="">``faidx/samtools/bcftools``</a>
+ 
+> from <a href="">the Broad Institute</a>: 
+ - ``Picard`` + ``GATK(-Protected)`` java suite
+ 
+> from <a href="">the Python library collection</a>:
+> (``pip`` or ``conda`` recommended for install; *=optional)
+ - ``asyncio`` + ``asycnpg``* + ``concurrent.futures``*
+ - ``blaze``* 
+ - ``dask``*
+ - ``django``* + ``flask``* + ``bottle``* + ``sanic``*
+ - ``ggplot``
+ - ``matplotlib2.0``
+ - ``numba``*
+ - ``numpy`` + ``scipy``
+ - ``pandas``
+ - ``plotly``
+ - ``seaborn``
+
 ## License 
 
+NOT INTENDED FOR COMMERCIAL USE !
 
-
+® John Collins, 2017. 
+All rights reserved. 
+Free to copy, modify, use for personal analysis/education, share with friends, 
+but not patent, sell, distribute on large-scale, etc. 
+(see <a href="">my LICENSE</a>, <a href="">GATK LICENSE</a>, & <a href="">more</a>)
 
 
 <br>
 
-
-
-
 ---------
-
 
 <img src="./doc/design/nucleosome_spacewaves_1.gif">
 
