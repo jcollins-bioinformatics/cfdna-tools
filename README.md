@@ -100,8 +100,6 @@ but not patent, sell, distribute on large-scale, etc.
 (1*2^8 + 0*2^7 + 1*2^6 + 1*2^5 + 0*2^4 + 1*2^3 + 1*2^2 + 0*2^1 + 1*2^0) = 365
 ~~~
 
-<br>
-
 <h6>[logo image source]:</h6>
 <h4>See <a href="https://pdb101.rcsb.org/motm/7">Protein DataBank's Educational Portal</a> for more about nucleosomes.</h4>
 
