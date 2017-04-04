@@ -36,10 +36,9 @@
 
 * The primary module of the this package.
 * Facilitates single-line, ultra-simple invocation of vivid, to-the-point, bare-as-can-be visualizations that retain capture of all data characteristics essential for proving the conclusion being presented.
-* For example, not-overly-complex display of multivariate correlations whether linear/nonlinear &/or absolute/relative [always 2D!], accurate scale representation [no misleading/dishonest "windows"], dimensionality reduction as applicable, auspicious use of color & shape combinations, correct choice of best-suited plot type, , ...*work in progress*) 
-* Encompasses a comprehensive suite of QC-metrics and descriptive stats for NGS output interpretation pre-/intermediate-/ and post- secondary pipeline analysis, including tertiary analysis, and "post-tertiary QC" analysis
-* Ultimate goal = immediate readability
-* Instantaneously imparts a stripped-clean, refreshing, high-quality/high-resolution PDF-vectorized (usually; sometimes high-res rasterized, e.g. .png, .jpg) modern sans-serif yet never distracting SIMPLE fonts & meticulous attention-to-detail design aestetics [lower priority than meaningful data representation, but still of utmost importance for subconscious readability reasons--i.e. cannot be obvious or result will be annoying and distracting]
+* Strives to achieve: i) Not-overly-complex display of multivariate correlations whether linear/nonlinear/absolute/relative (avoids 3D), ii) Accurate scale representation (true transparency), iii) Dimensionality reduction as beneficial, iv) Judicious use of color & shape combinations, v) Correct choice of best-suited plot type (e.g., usually bar graphs win over violin-plots for quick & effective relative comparisons)
+* Defines a comprehensive suite of functions for QC-metrics & descriptive stats for interpretation of NGS output, including secondary pipeline analysis, tertiary analysis, and "post-tertiary QC" analysis
+* Imparts a stripped-clean, refreshingly plain, high-resolution image that puts to rest all unease & all your dread of pixelation-asphyxiation.
 * Top-level figure objects (+ all ~1,350 matplotlib network-linked attribute objects -- e.g. axes, ticks, tick_labels, spines, grid, legend, etc.) come fully-loaded allowing vast permutations of parameter configurations and essentially unlimited customizability; by default hidden and set to maximize universal pliability, but if desired robustly amenable to complex personalization 
 
 ~~~ python
