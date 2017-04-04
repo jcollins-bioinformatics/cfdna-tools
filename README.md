@@ -1,12 +1,5 @@
 <img src="./doc/design/nexgendx_logo.png" width=87%>
 
-<h1 align="center" underline=0>
-Next-gen sequencing analysis tools for<br/>
-circulating cell-free DNA.
-</h1>
-
-<br>
-
 ```py
 [bash]~$ python3
 >>> import nexgendx as ngs
@@ -15,6 +8,13 @@ circulating cell-free DNA.
 >>> # do more
 >>> 
 ```
+
+<h1 align="center" underline=0>
+Next-gen sequencing analysis tools for<br/>
+circulating cell-free DNA.
+</h1>
+
+<br>
 
 <br>
 
