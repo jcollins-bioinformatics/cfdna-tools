@@ -86,9 +86,9 @@ but not patent, sell, distribute on large-scale, etc.
 
 ## Tools for the nucleosomal.
 
-<center>
-
 <br>
+
+<div align="center">
 
 ``⊰♘𝚿⚔⊱ 2017 | J.Collins | ⚕ nexgendx.``      ➉❶①⓪🄵🅡ⓔⓔ🄲🅾ⓓⓔ㊝①➓➀
 
@@ -99,12 +99,12 @@ but not patent, sell, distribute on large-scale, etc.
 <h6>[logo image source]:</h6>
 <h4>See <a href="https://pdb101.rcsb.org/motm/7">Protein DataBank's Educational Portal</a> for more about nucleosomes.</h4>
 
-
 <br>
 
 ## 𐃠
 
-</div
+</div>
+
 
 
 
