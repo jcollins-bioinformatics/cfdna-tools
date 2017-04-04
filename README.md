@@ -38,7 +38,6 @@ circulating cell-free DNA.
 Dependencies:
  - <a href="">``bedtools``</a>
  - <a href="">``BWA``</a>
- <br>
  
 > from <a href="">htslib</a>: 
  - ``faidx`` + ``samtools`` + ``bcftools``
@@ -64,15 +63,21 @@ Dependencies:
  - ``plotly``
  - ``seaborn``
  - ``SQLAlchemy``*
-
 <br>
+
+Example datasets:
+> - <a href="">FTP download / AWS access from NCBI</a>
+  * Genome in a Bottle Consortium pilot genome reference standard NA12878
+  * <a href="">2016 12-platform highly orthogonally validated high-confidence region genotype determination for use as "gold standard" in benchmarking NGS error (i.e. false-positives rate, sensitivity/specificity, etc.)
+  * 
+
 
 ## License 
 
 NOT INTENDED FOR COMMERCIAL USE !
 
-® All rights reserved. Free to copy, modify, use for personal analysis/education, share with friends, 
-but not patent, sell, distribute on large-scale, etc. 
+<big>®</big> All rights reserved. Free to copy, modify, use for personal analysis/education, share with friends, 
+but not patent, sell, distribute on large-scale, use for any commerical/for-profit purposes, etc. 
 (see <a href="">my LICENSE</a>, <a href="">GATK LICENSE</a>, & <a href="">more</a>)
 
 <div align="center">
