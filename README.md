@@ -28,9 +28,10 @@
 Dependencies:
  - <a href="">``bedtools``</a>
  - <a href="">``BWA``</a>
+ <br>
  
 > from <a href="">htslib</a>: 
- - ``faidx + samtools + bcftools``
+ - ``faidx`` + ``samtools`` + ``bcftools``
  
 <br>
 
