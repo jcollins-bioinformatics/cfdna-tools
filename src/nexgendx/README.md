@@ -36,15 +36,22 @@ ho <b>genóme</b>nos stratēgós<br>
 the ex-general<br>
 (present participle) something that is due (of payments);<br>
 regular, normal, usual
-
-Ancient Pronunciation
-* (5th BC Attic) IPA(key): /ɡí.ɡno.ma͜i/ * (1st BC Egyptian) IPA(key): /ˈɡi.ɡno.mɛ/ * (4th AD Koine) IPA(key): /ˈɣi.ɣno.mɛ/ * (10th AD Byzantine) IPA(key): /ˈʝi.ɣno.me/ * (15th AD Constantinopolitan) IPA(key): /ˈʝi.ɣno.me/ 
-
-Related terms
-* <b><a href="https://www.google.com/search?rls=en&q=γένος">γένος</a></b> (génos, “kind”) * <b><a href="https://www.google.com/search?rls=en&q=γένεσις">γένεσις</a></b> (génesis, “origin”) * <b><a href="https://www.google.com/search?rls=en&q=γενεᾱ́">γενεᾱ́</a></b> (geneā́, “descent”) * <b><a href="https://www.google.com/search?rls=en&q=γόνος">γόνος</a></b> (gónos, “offspring, begetting”) * <b><a href="https://www.google.com/search?rls=en&q=γεννάω">γεννάω</a></b> (gennáō, “beget”)
-
 </div>
 
+<div align="right">
+(5th BC Attic) IPA(key): /ɡí.ɡno.ma͜i/ 
+(1st BC Egyptian) IPA(key): /ˈɡi.ɡno.mɛ/ 
+(4th AD Koine) IPA(key): /ˈɣi.ɣno.mɛ/ 
+(10th AD Byzantine) IPA(key): /ˈʝi.ɣno.me/ 
+(15th AD Constantinopolitan) IPA(key): /ˈʝi.ɣno.me/ 
+
+<b><a href="https://www.google.com/search?rls=en&q=γένος">γένος</a></b> (génos, “kind”)
+<b><a href="https://www.google.com/search?rls=en&q=γένεσις">γένεσις</a></b> (génesis, “origin”)
+<b><a href="https://www.google.com/search?rls=en&q=γενεᾱ́">γενεᾱ́</a></b> (geneā́, “descent”)
+<b><a href="https://www.google.com/search?rls=en&q=γόνος">γόνος</a></b> (gónos, “offspring, begetting”)
+<b><a href="https://www.google.com/search?rls=en&q=γεννάω">γεννάω</a></b> (gennáō, “beget”)
+
+</div>
 <br>
 
 -------
