@@ -24,25 +24,22 @@
 <span class="mention-gloss-double-quote">“</span><span class="mention-gloss">I come into being</span><span class="mention-gloss-double-quote">”</span><span class="mention-gloss-paren">)</span>.</p>
 <br><h4> IPA(key): /ɡí.ɡno.ma͜i/ → /ˈɣi.ɣno.mɛ/ → /ˈʝi.ɣno.me/</h4>
 </div>
-
 <div align="left">
 <h4>Verb   γίγνομαι • (gígnomai) </h4>
 <b><i>to come into being</i></b><br>
-<i>: (of people) to be born<br>
-: (of things) to be produced<br>
-: (of events) to take place<br>
-: (followed by a predicate) to become</i>
+: (of people) <i>to be born</i><br>
+: (of things) <i>to be produced</i><br>
+: (of events) <i>o take place</i><br>
+: (followed by a predicate) <i>to become</i>
 </div>
-<br>
 <div align="right">
 (aorist participle) having ceased to be: former, ex-<br>
 ὁ γενόμενος στρατηγός<br>
-ho <b>genóme</b>nos stratēgós<br>
+ho <i>genóme</i>nos stratēgós<br>
 the ex-general<br>
 (present participle) something that is due (of payments);<br>
 regular, normal, usual
 </div>
-<br>
 <div align="left">
 (5th BC Attic) IPA(key): /ɡí.ɡno.ma͜i/ <br>
 (1st BC Egyptian) IPA(key): /ˈɡi.ɡno.mɛ/ <br>
@@ -50,7 +47,6 @@ regular, normal, usual
 (10th AD Byzantine) IPA(key): /ˈʝi.ɣno.me/ <br>
 (15th AD Constantinopolitan) IPA(key): /ˈʝi.ɣno.me/ <br>
 </div>
-<br>
 <div align="right">
 <b><a href="https://www.google.com/search?rls=en&q=γένος">γένος</a></b> (génos, “kind”)<br>
 <b><a href="https://www.google.com/search?rls=en&q=γένεσις">γένεσις</a></b> (génesis, “origin”)<br>
@@ -58,13 +54,24 @@ regular, normal, usual
 <b><a href="https://www.google.com/search?rls=en&q=γόνος">γόνος</a></b> (gónos, “offspring, begetting”)<br>
 <b><a href="https://www.google.com/search?rls=en&q=γεννάω">γεννάω</a></b> (gennáō, “beget”)
 </div>
+<div align="left">
+# 5. Soma-
+<b>σῶμα • (sôma) n</b> (genitive σώματος); third declension<br>
+1. body (both that of people and animals)<br>
+2. (Epic and often in other early works) dead body<br>
+3. One's life in the physical world<br>
+4. That which is material (as opposed to spiritual)<br>
+person<br>
+5. An entire thing<br>
+6. (mathematics) three-dimensional object<br>
+</div>
 <br>
 
 -------
 
 # Topdir executive function scripts:
 
-### Firegrail 
+# Firegrail 
 [Fi]gu[re] [g]ene[ra]t[i]on of a[l]lo-quantitated cfDNA: 
 
 * The primary module of the this package.
@@ -80,7 +87,7 @@ ngs.firegrail.waterfalls(samples, vcf, [...])
 ~~~
 
 
-### Genocord
+# Genocord
 [Geno]type con[cord]ance: 
 
 * ...
@@ -90,7 +97,7 @@ ngs.firegrail.waterfalls(samples, vcf, [...])
 # code example
 ~~~
 
-### Nuclanote
+# Nuclanote
 Nucl]eotide [a]n[not]ation [e]valuation: 
 
 * ...
@@ -100,7 +107,7 @@ Nucl]eotide [a]n[not]ation [e]valuation:
 # code example
 ~~~
 
-### Panomatic 
+# Panomatic 
 [Pan]das-driven aut[omatic] organization: 
  
 * of data through DataFrames for required input to pipeline, genotyping, and qc.
@@ -110,7 +117,7 @@ Nucl]eotide [a]n[not]ation [e]valuation:
 # code example
 ~~~
 
-### Quantallo
+# Quantallo
 [Quant]itation of %-"[allo]"-cfDNA: 
 
 * e.g. solid organ donor-derived, tumor-derived somatic, etc.
@@ -122,7 +129,7 @@ Nucl]eotide [a]n[not]ation [e]valuation:
 # code example
 ~~~
 
-### Sinuvysis
+# Sinuvysis
 Si]ngle [nu]cleotide [v]ariant anal[ysis] ("sī-NEW-vuh-sys"): 
 
 * ...
@@ -132,7 +139,7 @@ Si]ngle [nu]cleotide [v]ariant anal[ysis] ("sī-NEW-vuh-sys"):
 # code example
 ~~~
 
-### Somation
+# Somation
 [S]ummarization of s[om]atic mut[ation]s: 
 
 * ...
