@@ -22,10 +22,10 @@
 <i>See also:</i> <b><a href="https://www.google.com/search?rls=en&q=gen%C3%A8tic" title="genètic"> genètic</a></b>
 <p>From <span class="etylcleanup"><span class="etyl"><a href="https://en.wikipedia.org/wiki/Ancient_Greek_language" class="extiw" title="w:Ancient Greek language">Ancient Greek</a></span></span> <i class="polytonic mention" lang="grc" xml:lang="grc"><a href="https://www.google.com/search?rls=en&q=%CE%B3%CE%AD%CE%BD%CE%B5%CF%83%CE%B9%CF%82#Ancient_Greek" title="γένεσις">γένεσις</a></i> <span class="mention-gloss-paren">(</span><span lang="" class="tr mention-tr" xml:lang="">génesis</span>, <span class="mention-gloss-double-quote">“</span><span class="mention-gloss">origin</span><span class="mention-gloss-double-quote">”</span><span class="mention-gloss-paren">)</span>. <br>Ultimately from <i class="polytonic mention" lang="grc" xml:lang="grc"><a href="https://www.google.com/search?rls=en&q=%CE%B3%CE%AF%CE%B3%CE%BD%CE%BF%CE%BC%CE%B1%CE%B9#Ancient_Greek" title="γίγνομαι">γίγνομαι</a></i> <span class="mention-gloss-paren">(</span><span lang="" class="tr mention-tr" xml:lang="">gígnomai</span>, 
 <span class="mention-gloss-double-quote">“</span><span class="mention-gloss">I come into being</span><span class="mention-gloss-double-quote">”</span><span class="mention-gloss-paren">)</span>.</p>
-<b> IPA(key): /ɡí.ɡno.ma͜i/ → /ˈɣi.ɣno.mɛ/ → /ˈʝi.ɣno.me/</b>
 </div>
 <div align="left">
-<b>Verb   γίγνομαι • (gígnomai) : <i>to come into being</i></b><br><br>
+IPA(key): /ɡí.ɡno.ma͜i/ → /ˈɣi.ɣno.mɛ/ → /ˈʝi.ɣno.me/
+Verb   γίγνομαι • (gígnomai) : <i>to come into being</i>
 : (of people) <i>to be born</i><br>
 : (of things) <i>to be produced</i><br>
 : (of events) <i>to take place</i><br>
@@ -70,16 +70,17 @@ regular, normal, usual
 </ol>
 </div>
 <div align="right">
+<i>somatic</i><br>
 <b>σώμα (sóma, “body”) + -τικός (-tikós)</b><br>
-<h4>σωματικός • (somatikós) m (feminine σωματική, neuter σωματικό)</h4>
+<b>σωματικός • (somatikós) m (feminine σωματική, neuter σωματικό)</b>
 physical, bodily, corporal (relating to the body)<br>
 Έφυγα από τη μέση για να προστατέψω τη σωματική ακεραιότητά μου.‎ ― Éfyga apó ti mési gia na prostatépso ti somatikí akeraiótitá mou. ― I got out of the way in order to protect my physical integrity.
 </div>
 <br>
 
 -------
-
-# Topdir executive function scripts:
+<br>
+# Top directory executive function modules:<br/>
 
 # Firegrail 
 [Fi]gu[re] [g]ene[ra]t[i]on of a[l]lo-quantitated cfDNA: 
@@ -140,7 +141,7 @@ Nucl]eotide [a]n[not]ation [e]valuation:
 ~~~
 
 # Sinuvysis
-Si]ngle [nu]cleotide [v]ariant anal[ysis] ("sī-NEW-vuh-sys"): 
+[Si]ngle [nu]cleotide [v]ariant anal[ysis] ("sī-NEW-vuh-sys"): 
 
 * ...
 * detail stuff
