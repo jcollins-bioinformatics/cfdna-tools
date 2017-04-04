@@ -23,10 +23,14 @@
 <p>From <span class="etylcleanup"><span class="etyl"><a href="https://en.wikipedia.org/wiki/Ancient_Greek_language" class="extiw" title="w:Ancient Greek language">Ancient Greek</a></span></span> <i class="polytonic mention" lang="grc" xml:lang="grc"><a href="https://www.google.com/search?rls=en&q=%CE%B3%CE%AD%CE%BD%CE%B5%CF%83%CE%B9%CF%82#Ancient_Greek" title="γένεσις">γένεσις</a></i> <span class="mention-gloss-paren">(</span><span lang="" class="tr mention-tr" xml:lang="">génesis</span>, <span class="mention-gloss-double-quote">“</span><span class="mention-gloss">origin</span><span class="mention-gloss-double-quote">”</span><span class="mention-gloss-paren">)</span>. <br>Ultimately from <i class="polytonic mention" lang="grc" xml:lang="grc"><a href="https://www.google.com/search?rls=en&q=%CE%B3%CE%AF%CE%B3%CE%BD%CE%BF%CE%BC%CE%B1%CE%B9#Ancient_Greek" title="γίγνομαι">γίγνομαι</a></i> <span class="mention-gloss-paren">(</span><span lang="" class="tr mention-tr" xml:lang="">gígnomai</span>, 
 <span class="mention-gloss-double-quote">“</span><span class="mention-gloss">I come into being</span><span class="mention-gloss-double-quote">”</span><span class="mention-gloss-paren">)</span>.</p>
 </div>
+
 <div align="right">
+
 #### IPA(key): /ɡí.ɡno.ma͜i/ → /ˈɣi.ɣno.mɛ/ → /ˈʝi.ɣno.me/
 #### Verb   γίγνομαι • (gígnomai)
+
 </div>
+
 <div align="left">
 <b><i>to come into being</i></b><br>
 <i>: (of people) to be born<br>
@@ -47,7 +51,10 @@ regular, normal, usual
 (4th AD Koine) IPA(key): /ˈɣi.ɣno.mɛ/ <br>
 (10th AD Byzantine) IPA(key): /ˈʝi.ɣno.me/ <br>
 (15th AD Constantinopolitan) IPA(key): /ˈʝi.ɣno.me/ <br>
+</div>
+<br>
 
+<div align="left">
 <b><a href="https://www.google.com/search?rls=en&q=γένος">γένος</a></b> (génos, “kind”)<br>
 <b><a href="https://www.google.com/search?rls=en&q=γένεσις">γένεσις</a></b> (génesis, “origin”)<br>
 <b><a href="https://www.google.com/search?rls=en&q=γενεᾱ́">γενεᾱ́</a></b> (geneā́, “descent”)<br>
