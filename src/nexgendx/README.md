@@ -73,7 +73,7 @@ regular, normal, usual
 </div>
 <div align="right">
 <h3><i>somatic</i></h3>
-σώμα (sóma, “body”) + -τικός (-tikós)</b><br>
+<b>σώμα (sóma, “body”) + -τικός (-tikós)</b><br>
 <b>σωματικός • (somatikós)</b> m (feminine σωματική, neuter σωματικό)
 physical, bodily, corporal (relating to the body)<br>
 Έφυγα από τη μέση για να προστατέψω τη σωματική ακεραιότητά μου. ― Éfyga apó ti mési gia na prostatépso ti <i>somatikí</i> akeraiótitá mou. ― I got out of the way in order to protect my physical integrity.
