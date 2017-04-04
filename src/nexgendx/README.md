@@ -6,7 +6,7 @@
 </div>
 
 <h1 id="firstHeading" class="firstHeading" lang="en">2. allele</h1>
-<div align="right">
+<div align="left">
 <i>See also:</i> <b><a href="ttps://www.google.com/search?rls=en&q=all%C3%A8le" title="allèle">allèle</a></b>
 <p><a href="/wiki/Appendix:Glossary#loanword" title="Appendix:Glossary">Borrowing</a> from <span class="etyl"><a href="https://en.wikipedia.org/wiki/German_language" class="extiw" title="w:German language">German</a></span> <i class="Latn mention" lang="de" xml:lang="de"><a href="ttps://www.google.com/search?rls=en&q=Allel&amp;action=edit&amp;redlink=1" class="new" title="Allel (page does not exist)">Allel</a></i>, shortened from <br><i class="Latn mention" lang="de" xml:lang="de"><a href="/w/index.php?title=Allelomorph&amp;action=edit&amp;redlink=1" class="new" title="Allelomorph (page does not exist)">Allelomorph</a></i>, from <span class="etyl"><a href="https://en.wikipedia.org/wiki/English_language" class="extiw" title="w:English language">English</a></span> <i class="Latn mention" lang="en" xml:lang="en"><a href="https://www.google.com/search?rls=en&q=allelomorph#English" title="allelomorph">allelomorph</a></i>. <br>Ultimately from the <span class="etyl"><a href="https://en.wikipedia.org/wiki/Ancient_Greek_language" class="extiw" title="w:Ancient Greek language">Ancient Greek</a></span> prefix <i class="polytonic mention" lang="grc" xml:lang="grc"><a href="https://www.google.com/search?rls=en&q=%E1%BC%80%CE%BB%CE%BB%CE%B7%CE%BB-&amp;action=edit&amp;redlink=1" class="new" title="ἀλληλ- (page does not exist)">ἀλληλ-</a></i> <span class="mention-gloss-paren">(</span><span lang="" class="tr mention-tr" xml:lang="">allēl-</span><span class="mention-gloss-paren">)</span> <br>from <i class="polytonic mention" lang="grc" xml:lang="grc"><a href="https://www.google.com/search?rls=en&q=%E1%BC%84%CE%BB%CE%BB%CE%BF%CF%82#Ancient_Greek" title="ἄλλος">ἄλλος</a></i> <span class="mention-gloss-paren">(</span><span lang="" class="tr mention-tr" xml:lang="">állos</span>, <span class="mention-gloss-double-quote">“</span><span class="mention-gloss">other</span><span class="mention-gloss-double-quote">”</span><span class="mention-gloss-paren">)</span>.</p>
 </div>
@@ -18,7 +18,7 @@
 </div>
 
 <h1 id="firstHeading" class="firstHeading" lang="en">4. genetic</h1>
-<div align="right">
+<div align="left">
 <i>See also:</i> <b><a href="https://www.google.com/search?rls=en&q=gen%C3%A8tic" title="genètic"> genètic</a></b>
 <p>From <span class="etylcleanup"><span class="etyl"><a href="https://en.wikipedia.org/wiki/Ancient_Greek_language" class="extiw" title="w:Ancient Greek language">Ancient Greek</a></span></span> <i class="polytonic mention" lang="grc" xml:lang="grc"><a href="https://www.google.com/search?rls=en&q=%CE%B3%CE%AD%CE%BD%CE%B5%CF%83%CE%B9%CF%82#Ancient_Greek" title="γένεσις">γένεσις</a></i> <span class="mention-gloss-paren">(</span><span lang="" class="tr mention-tr" xml:lang="">génesis</span>, <span class="mention-gloss-double-quote">“</span><span class="mention-gloss">origin</span><span class="mention-gloss-double-quote">”</span><span class="mention-gloss-paren">)</span>. <br>Ultimately from <i class="polytonic mention" lang="grc" xml:lang="grc"><a href="https://www.google.com/search?rls=en&q=%CE%B3%CE%AF%CE%B3%CE%BD%CE%BF%CE%BC%CE%B1%CE%B9#Ancient_Greek" title="γίγνομαι">γίγνομαι</a></i> <span class="mention-gloss-paren">(</span><span lang="" class="tr mention-tr" xml:lang="">gígnomai</span>, 
 <span class="mention-gloss-double-quote">“</span><span class="mention-gloss">I come into being</span><span class="mention-gloss-double-quote">”</span><span class="mention-gloss-paren">)</span>.</p>
@@ -27,19 +27,19 @@ IPA(key): /ɡí.ɡno.ma͜i/ → /ˈɣi.ɣno.mɛ/ → /ˈʝi.ɣno.me/
 Verb
 γίγνομαι • (gígnomai)
 
-to come into being
-(of people) to be born : 
-(of things) to be produced : 
-(of events) to take place : 
-(followed by a predicate) to become : 
-(aorist participle) having ceased to be: former, ex- : 
+<b><i>to come into being</i></b>
+: (of people) to be born
+: (of things) to be produced
+: (of events) to take place
+: (followed by a predicate) to become
+: (aorist participle) having ceased to be: former, ex-
 ὁ γενόμενος στρατηγός
 ho genómenos stratēgós
 the ex-general
 (present participle) something that is due (of payments);
 regular, normal, usual
 
-Pronunciation
+Ancient Pronunciation
 * (5th BC Attic) IPA(key): /ɡí.ɡno.ma͜i/
 * (1st BC Egyptian) IPA(key): /ˈɡi.ɡno.mɛ/
 * (4th AD Koine) IPA(key): /ˈɣi.ɣno.mɛ/
@@ -47,11 +47,11 @@ Pronunciation
 * (15th AD Constantinopolitan) IPA(key): /ˈʝi.ɣno.me/
 
 Related terms
-* γένος (génos, “kind”)
-* γένεσις (génesis, “origin”)
-* γενεᾱ́ (geneā́, “descent”)
-* γόνος (gónos, “offspring, begetting”)
-* γεννάω (gennáō, “beget”)
+* <b><a href="https://www.google.com/search?rls=en&q=γένος">γένος</a></b> (génos, “kind”)
+* <b><a href="https://www.google.com/search?rls=en&q=γένεσις">γένεσις</a></b> (génesis, “origin”)
+* <b><a href="https://www.google.com/search?rls=en&q=γενεᾱ́">γενεᾱ́</a></b> (geneā́, “descent”)
+* <b><a href="https://www.google.com/search?rls=en&q=γόνος">γόνος</a></b> (gónos, “offspring, begetting”)
+* <b><a href="https://www.google.com/search?rls=en&q=γεννάω">γεννάω</a></b> (gennáō, “beget”)
 
 </div>
 
