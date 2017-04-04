@@ -93,7 +93,7 @@ physical, bodily, corporal (relating to the body)<br>
 * Strives to achieve: i) Not-overly-complex display of multivariate correlations whether linear/nonlinear/absolute/relative (avoids 3D), ii) Accurate scale representation (true transparency), iii) Dimensionality reduction as beneficial, iv) Judicious use of color & shape combinations, v) Correct choice of best-suited plot type (e.g., usually bar graphs win over violin-plots for quick & effective relative comparisons).
 * Defines a comprehensive suite of functions for QC-metrics & descriptive stats for interpretation of NGS output, including secondary pipeline analysis, tertiary analysis, and "post-tertiary QC" analysis
 * Imparts a stripped-clean, refreshingly plain, high-resolution image that puts to rest <i>all unease & all your dread of pixelation-asphyxiation</i>.
-* Top-level figure objects (+ all ~1,350 matplotlib network-linked attribute objects -- e.g. axes, ticks, tick_labels, spines, grid, legend, etc.) come fully-loaded allowing vast permutations of parameter configurations and essentially unlimited customizability; by default hidden and set to maximize universal pliability, but if desired robustly amenable to complex personalization. 
+* Top-level figure objects come fully-loaded allowing vast permutations of parameter configurations and essentially unlimited customizabilit. ~1,350 matplotlib network-linked attribute objects -- e.g. axes, ticks, tick_labels, spines, grid, legend, etc.; by default hidden and set to maximize universal pliability, but if desired robustly amenable to complex personalization. 
 
 ~~~ python
 # code examples
