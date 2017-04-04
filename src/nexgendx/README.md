@@ -22,9 +22,9 @@
 <i>See also:</i> <b><a href="https://www.google.com/search?rls=en&q=gen%C3%A8tic" title="genètic"> genètic</a></b>
 <p>From <span class="etylcleanup"><span class="etyl"><a href="https://en.wikipedia.org/wiki/Ancient_Greek_language" class="extiw" title="w:Ancient Greek language">Ancient Greek</a></span></span> <i class="polytonic mention" lang="grc" xml:lang="grc"><a href="https://www.google.com/search?rls=en&q=%CE%B3%CE%AD%CE%BD%CE%B5%CF%83%CE%B9%CF%82#Ancient_Greek" title="γένεσις">γένεσις</a></i> <span class="mention-gloss-paren">(</span><span lang="" class="tr mention-tr" xml:lang="">génesis</span>, <span class="mention-gloss-double-quote">“</span><span class="mention-gloss">origin</span><span class="mention-gloss-double-quote">”</span><span class="mention-gloss-paren">)</span>. <br>Ultimately from <i class="polytonic mention" lang="grc" xml:lang="grc"><a href="https://www.google.com/search?rls=en&q=%CE%B3%CE%AF%CE%B3%CE%BD%CE%BF%CE%BC%CE%B1%CE%B9#Ancient_Greek" title="γίγνομαι">γίγνομαι</a></i> <span class="mention-gloss-paren">(</span><span lang="" class="tr mention-tr" xml:lang="">gígnomai</span>, 
 <span class="mention-gloss-double-quote">“</span><span class="mention-gloss">I come into being</span><span class="mention-gloss-double-quote">”</span><span class="mention-gloss-paren">)</span>.</p>
+IPA(key): /ɡí.ɡno.ma͜i/ → /ˈɣi.ɣno.mɛ/ → /ˈʝi.ɣno.me/ <br>
 </div>
 <div align="left">
-<b> IPA(key): /ɡí.ɡno.ma͜i/ → /ˈɣi.ɣno.mɛ/ → /ˈʝi.ɣno.me/ <br>
 Verb   γίγνομαι • (gígnomai) </b>: <i>to come into being</i><br>
 : (of people) <i>to be born</i><br>
 : (of things) <i>to be produced</i><br>
