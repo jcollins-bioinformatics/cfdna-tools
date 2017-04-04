@@ -3,8 +3,9 @@
 ### Firegrail 
 [Fi]gu[re] [g]ene[ra]t[i]on of a[l]lo-quantitated cfDNA: 
 
-* ...
-* detail stuff
+* The primary module of the this package.
+* Facilitates single-line, ultra-simple invocation of vivid, to-the-point, bare-as-can-be visualizations that retain capture of all data characteristics essential for proving the conclusiong being presented (i.e. multivariate correlations whether linear/nonlinear &/or absolute/relative, accurate scale representation, immediate readability, dimensionality reduction, auspicious use of color & shape combination, appropriate plot type, stripped-clean-no-chart-junk, high-quality high-resolution modern fonts & even design aesthetics [lower priority than meaningful data representation but still of utmost importance for subconscious readability reasons], ...*work in progress*) 
+* Encompasses a comprehensive suite of QC-metrics and descriptive stats for NGS output interpretation pre-/intermediate-/ and post- secondary pipeline analysis, including tertiary analysis, and "post-tertiary QC" analysis
 
 ~~~ python
 # code examples
