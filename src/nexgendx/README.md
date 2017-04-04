@@ -24,8 +24,8 @@
 <span class="mention-gloss-double-quote">“</span><span class="mention-gloss">I come into being</span><span class="mention-gloss-double-quote">”</span><span class="mention-gloss-paren">)</span>.</p>
 </div>
 <div align="left">
-IPA(key): /ɡí.ɡno.ma͜i/ → /ˈɣi.ɣno.mɛ/ → /ˈʝi.ɣno.me/
-Verb   γίγνομαι • (gígnomai) : <i>to come into being</i>
+<b> IPA(key): /ɡí.ɡno.ma͜i/ → /ˈɣi.ɣno.mɛ/ → /ˈʝi.ɣno.me/ <br>
+Verb   γίγνομαι • (gígnomai) </b>: <i>to come into being</i><br>
 : (of people) <i>to be born</i><br>
 : (of things) <i>to be produced</i><br>
 : (of events) <i>to take place</i><br>
@@ -70,11 +70,11 @@ regular, normal, usual
 </ol>
 </div>
 <div align="right">
-<i>somatic</i><br>
-<b>σώμα (sóma, “body”) + -τικός (-tikós)</b><br>
-<b>σωματικός • (somatikós) m (feminine σωματική, neuter σωματικό)</b>
+<b><i>somatic</i><br>
+σώμα (sóma, “body”) + -τικός (-tikós)</b><br>
+<b>σωματικός • (somatikós)</b> m (feminine σωματική, neuter σωματικό)
 physical, bodily, corporal (relating to the body)<br>
-Έφυγα από τη μέση για να προστατέψω τη σωματική ακεραιότητά μου.‎ ― Éfyga apó ti mési gia na prostatépso ti somatikí akeraiótitá mou. ― I got out of the way in order to protect my physical integrity.
+Έφυγα από τη μέση για να προστατέψω τη σωματική ακεραιότητά μου. ― Éfyga apó ti mési gia na prostatépso ti <i>somatikí</i> akeraiótitá mou. ― I got out of the way in order to protect my physical integrity.
 </div>
 <br>
 
