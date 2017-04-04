@@ -25,7 +25,7 @@
 IPA(key): /ɡí.ɡno.ma͜i/ → /ˈɣi.ɣno.mɛ/ → /ˈʝi.ɣno.me/ <br>
 </div>
 <div align="left">
-Verb   γίγνομαι • (gígnomai) </b>: <i>to come into being</i><br>
+<b>Verb   <a href="https://www.google.com/search?rls=en&q=γίγνομαι">γίγνομαι</a> • (gígnomai) </b> <i>to come into being</i><br>
 : (of people) <i>to be born</i><br>
 : (of things) <i>to be produced</i><br>
 : (of events) <i>to take place</i><br>
