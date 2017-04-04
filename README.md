@@ -26,16 +26,25 @@
 ## Getting Started
 
 Dependencies:
+
 <a href="">``bedtools``</a>
+
+<br>
 
 <a href="">``BWA``</a>
 
+<br>
+
 > from <a href="">htslib</a>: 
- - <a href="">``faidx/samtools/bcftools``</a>
+ - ``faidx + samtools + bcftools``
  
+<br>
+
 > from <a href="">the Broad Institute</a>: 
  - ``Picard`` + ``GATK(-Protected)`` java suite
  
+<br>
+
 > from <a href="">the Python library collection</a>:
 > (``pip`` or ``conda`` recommended for install; *=optional)
  - ``asyncio`` + ``asycnpg``* + ``concurrent.futures``*
@@ -49,6 +58,8 @@ Dependencies:
  - ``pandas``
  - ``plotly``
  - ``seaborn``
+
+<br>
 
 ## License 
 
@@ -64,10 +75,9 @@ but not patent, sell, distribute on large-scale, etc.
 <br>
 
 ---------
-
+## Tools for the nucleosomal.
 <img src="./doc/design/nucleosome_spacewaves_1.gif">
 
-## Tools for the nucleosomal.
 <div align="center">
 
 <br>
