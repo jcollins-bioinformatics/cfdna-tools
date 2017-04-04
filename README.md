@@ -1,5 +1,10 @@
 <img src="./doc/design/nexgendx_logo.png" width=87%>
 
+<h1 align="center" underline=0>
+Next-gen sequencing analysis tools for<br/>
+circulating cell-free DNA.
+</h1>
+
 <br>
 
 ```py
@@ -13,18 +18,11 @@
 
 <br>
 
-
-<h1 align="center" underline=0>
-Next-gen sequencing analysis tools for<br/>
-circulating cell-free DNA.
-</h1>
-
 1. this
 2. that
 3. these
  - etc
  - etc 
-
 
 <br>
 
