@@ -7,6 +7,13 @@
 >>> tumor_genome = ngs.teraget(, con=ngs.sqlalcmy(...))
 >>> # do more
 >>> 
+>>> very 
+>>> basic
+>>> nice illustrative
+>>> example 
+>>> load / calc stats / visualize 
+>>> :Dctrl+d
+ctrl+c
 ```
 
 <h1 align="center" underline=0>
@@ -86,7 +93,7 @@ but not patent, sell, distribute on large-scale, etc.
 
 </div>
 
-## Tools for the nucleosomal.
+## Tools for the nucleosome space.
 
 <br>
 
