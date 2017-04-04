@@ -66,12 +66,26 @@ but not patent, sell, distribute on large-scale, etc.
 
 <div align="center">
 
+<br>
+<br>
+
 ``⊰♘𝚿⚔⊱ 2017 | J.Collins | ⚕ nexgendx.``      ➉❶①⓪🄵🅡ⓔⓔ🄲🅾ⓓⓔ㊝①➓➀
+
+<br>
 
 ~~~ py
 (1*2^8 + 0*2^7 + 1*2^6 + 1*2^5 + 0*2^4 + 1*2^3 + 1*2^2 + 0*2^1 + 1*2^0) = 365
 ~~~
 
+<br>
+
+``@+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+``𝝘𝝝𝝝𝝘𝝩𝝝𝝘𝝖𝝝𝝩𝝩𝝝𝝖𝝩𝝖𝝖𝝝𝝩𝝩𝝝𝝩𝝩𝝩𝝝𝝘𝝖𝝝𝝩𝝩𝝝𝝩𝝖𝝖𝝝𝝩𝝩𝝝𝝩𝝖𝝖𝝝𝝖𝝖𝝝𝝩𝝩𝝝𝝩𝝖𝝖𝝝𝝩𝝩𝝝𝝩𝝩𝝩𝝝𝝘𝝩𝝝𝝘𝝖𝝘𝝖𝝖𝝩𝝝𝝝𝝘``
+``++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+``DAEEEEDGGGIIIEJKKKJLKPKGGGGGGGGLGLGLKHHHHHKGGDJHHHHKGGDEJKKKJLKPKGGGGGKAAAAAABBJ``
+``@+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+
+<br>
 <br>
 
 ---------
@@ -81,15 +95,7 @@ but not patent, sell, distribute on large-scale, etc.
 
 ## Tools for the nucleosomal.
 
-<br>
-
-
-
-``@+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
-``𝝘𝝝𝝝𝝘𝝩𝝝𝝘𝝖𝝝𝝩𝝩𝝝𝝖𝝩𝝖𝝖𝝝𝝩𝝩𝝝𝝩𝝩𝝩𝝝𝝘𝝖𝝝𝝩𝝩𝝝𝝩𝝖𝝖𝝝𝝩𝝩𝝝𝝩𝝖𝝖𝝝𝝖𝝖𝝝𝝩𝝩𝝝𝝩𝝖𝝖𝝝𝝩𝝩𝝝𝝩𝝩𝝩𝝝𝝘𝝩𝝝𝝘𝝖𝝘𝝖𝝖𝝩𝝝𝝝𝝘``
-``++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
-``DAEEEEDGGGIIIEJKKKJLKPKGGGGGGGGLGLGLKHHHHHKGGDJHHHHKGGDEJKKKJLKPKGGGGGKAAAAAABBJ``
-``@+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
+<br><br>
 
 <h6>[logo image source]:</h6>
 <h4>See <a href="https://pdb101.rcsb.org/motm/7">Protein DataBank's Educational Portal</a> for more about nucleosomes.</h4>
@@ -99,7 +105,7 @@ but not patent, sell, distribute on large-scale, etc.
 ## 𐃠
 
 </div
-<br>
+
 
 
 
