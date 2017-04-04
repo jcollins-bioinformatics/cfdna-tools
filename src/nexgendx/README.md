@@ -22,18 +22,18 @@
 <i>See also:</i> <b><a href="https://www.google.com/search?rls=en&q=gen%C3%A8tic" title="genètic"> genètic</a></b>
 <p>From <span class="etylcleanup"><span class="etyl"><a href="https://en.wikipedia.org/wiki/Ancient_Greek_language" class="extiw" title="w:Ancient Greek language">Ancient Greek</a></span></span> <i class="polytonic mention" lang="grc" xml:lang="grc"><a href="https://www.google.com/search?rls=en&q=%CE%B3%CE%AD%CE%BD%CE%B5%CF%83%CE%B9%CF%82#Ancient_Greek" title="γένεσις">γένεσις</a></i> <span class="mention-gloss-paren">(</span><span lang="" class="tr mention-tr" xml:lang="">génesis</span>, <span class="mention-gloss-double-quote">“</span><span class="mention-gloss">origin</span><span class="mention-gloss-double-quote">”</span><span class="mention-gloss-paren">)</span>. <br>Ultimately from <i class="polytonic mention" lang="grc" xml:lang="grc"><a href="https://www.google.com/search?rls=en&q=%CE%B3%CE%AF%CE%B3%CE%BD%CE%BF%CE%BC%CE%B1%CE%B9#Ancient_Greek" title="γίγνομαι">γίγνομαι</a></i> <span class="mention-gloss-paren">(</span><span lang="" class="tr mention-tr" xml:lang="">gígnomai</span>, 
 <span class="mention-gloss-double-quote">“</span><span class="mention-gloss">I come into being</span><span class="mention-gloss-double-quote">”</span><span class="mention-gloss-paren">)</span>.</p>
+<br><h4> IPA(key): /ɡí.ɡno.ma͜i/ → /ˈɣi.ɣno.mɛ/ → /ˈʝi.ɣno.me/</h4>
 </div>
 
 <div align="left">
-<h4> IPA(key): /ɡí.ɡno.ma͜i/ → /ˈɣi.ɣno.mɛ/ → /ˈʝi.ɣno.me/ <br/> Verb   γίγνομαι • (gígnomai) </h4>
-<br>
+<h4>Verb   γίγνομαι • (gígnomai) </h4>
 <b><i>to come into being</i></b><br>
 <i>: (of people) to be born<br>
 : (of things) to be produced<br>
 : (of events) to take place<br>
-: (followed by a predicate) to become<br><br></i>
+: (followed by a predicate) to become</i>
 </div>
-
+<br>
 <div align="right">
 (aorist participle) having ceased to be: former, ex-<br>
 ὁ γενόμενος στρατηγός<br>
@@ -42,7 +42,7 @@ the ex-general<br>
 (present participle) something that is due (of payments);<br>
 regular, normal, usual
 </div>
-
+<br>
 <div align="left">
 (5th BC Attic) IPA(key): /ɡí.ɡno.ma͜i/ <br>
 (1st BC Egyptian) IPA(key): /ˈɡi.ɡno.mɛ/ <br>
@@ -51,14 +51,12 @@ regular, normal, usual
 (15th AD Constantinopolitan) IPA(key): /ˈʝi.ɣno.me/ <br>
 </div>
 <br>
-
 <div align="right">
 <b><a href="https://www.google.com/search?rls=en&q=γένος">γένος</a></b> (génos, “kind”)<br>
 <b><a href="https://www.google.com/search?rls=en&q=γένεσις">γένεσις</a></b> (génesis, “origin”)<br>
 <b><a href="https://www.google.com/search?rls=en&q=γενεᾱ́">γενεᾱ́</a></b> (geneā́, “descent”)<br>
 <b><a href="https://www.google.com/search?rls=en&q=γόνος">γόνος</a></b> (gónos, “offspring, begetting”)<br>
 <b><a href="https://www.google.com/search?rls=en&q=γεννάω">γεννάω</a></b> (gennáō, “beget”)
-
 </div>
 <br>
 
