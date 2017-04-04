@@ -60,28 +60,30 @@ Dependencies:
 
 NOT INTENDED FOR COMMERCIAL USE !
 
-® John Collins, 2017. 
-All rights reserved. 
-Free to copy, modify, use for personal analysis/education, share with friends, 
+® All rights reserved. Free to copy, modify, use for personal analysis/education, share with friends, 
 but not patent, sell, distribute on large-scale, etc. 
 (see <a href="">my LICENSE</a>, <a href="">GATK LICENSE</a>, & <a href="">more</a>)
 
+<div align="center">
+
+``⊰♘𝚿⚔⊱ 2017 | J.Collins | ⚕ nexgendx.``      ➉❶①⓪🄵🅡ⓔⓔ🄲🅾ⓓⓔ㊝①➓➀
+
+~~~ py
+(1*2^8 + 0*2^7 + 1*2^6 + 1*2^5 + 0*2^4 + 1*2^3 + 1*2^2 + 0*2^1 + 1*2^0) = 365
+~~~
 
 <br>
 
 ---------
-## Tools for the nucleosomal.
+
 <img src="./doc/design/nucleosome_spacewaves_1.gif">
 
-<div align="center">
+
+## Tools for the nucleosomal.
 
 <br>
 
-``⊰♘𝚿⚔⊱ 2017 | J.Collins | ⚕ nexgendx.``      ➉❶①⓪🄵🅡ⓔⓔ🄲🅾ⓓⓔ㊝①➓➀
 
-~~~py
-(1*2^8 + 0*2^7 + 1*2^6 + 1*2^5 + 0*2^4 + 1*2^3 + 1*2^2 + 0*2^1 + 1*2^0) = 365
-~~~
 
 ``@+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
 ``𝝘𝝝𝝝𝝘𝝩𝝝𝝘𝝖𝝝𝝩𝝩𝝝𝝖𝝩𝝖𝝖𝝝𝝩𝝩𝝝𝝩𝝩𝝩𝝝𝝘𝝖𝝝𝝩𝝩𝝝𝝩𝝖𝝖𝝝𝝩𝝩𝝝𝝩𝝖𝝖𝝝𝝖𝝖𝝝𝝩𝝩𝝝𝝩𝝖𝝖𝝝𝝩𝝩𝝝𝝩𝝩𝝩𝝝𝝘𝝩𝝝𝝘𝝖𝝘𝝖𝝖𝝩𝝝𝝝𝝘``
