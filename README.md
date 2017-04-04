@@ -68,7 +68,7 @@ Dependencies:
 Example datasets:
 > <a href="">FTP download / AWS access from NCBI</a>
 >  * Genome in a Bottle Consortium pilot genome reference standard NA12878
->  * <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4896128/">12X-NGS-platform (BioNano Genomics, Complete Genomics paired-end and LFR, Ion Proton exome, Oxford Nanopore, Pacific Biosciences, SOLiD, 10X Genomics GemCode WGS, and Illumina exome and WGS paired-end, mate-pair, and synthetic long reads) highly orthogonally validated genotype determination for high-confidence regions (2016)</a>, useful as a new "gold standard" for benchmarking NGS error (i.e. false-positives rate, sensitivity/specificity, etc.) in an unbiased fashion.
+>  * <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4896128/">12X-NGS-platform (BioNano Genomics, Complete Genomics paired-end and LFR, Ion Proton exome, Oxford Nanopore, Pacific Biosciences, SOLiD, 10X Genomics GemCode WGS, and Illumina exome and WGS paired-end, mate-pair, and synthetic long reads)</a> highly orthogonally validated genotype determination for high-confidence regions (2016), useful as a new "gold standard" for benchmarking NGS error (i.e. false-positives rate, sensitivity/specificity, etc.) in an unbiased fashion.
 >  * See Jupyter notebooks folder under ``./examples`` for some basic analysis workflow demonstrations that are easily replicated with NA12878, harnessing the ``nexgendx`` tool suite for data I/O, stats analysis, custom pipeline setup, launch & QC, and visualization. 
 
 
