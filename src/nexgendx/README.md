@@ -1,5 +1,5 @@
 
-<h1 id="firstHeading" class="firstHeading" lang="en">1. allo-</h1>
+<h1 id="firstHeading"- class="firstHeading" lang="en">1. allo-</h1>
 <div align="left">
 <i>See also: </i> <b><a href="https://www.google.com/search?rls=en&q=allo" title="allo">allo </a></b>,  <b><a href="https://en.wiktionary.org/wiki/alla-#Irish" title="allô">allô </a></b>,  <b><a href="https://en.wiktionary.org/wiki/άλλος#Greek" title="allò">allò </a></b> <span class="serial-comma">, </span> <i><span class="serial-and">and </span></i> <b><a href="https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/h₂élyos" title="álló">álló </a></b>
 <p>From <span class="etyl"><a href="https://en.wikipedia.org/wiki/Ancient_Greek_language" class="extiw" title="w:Ancient Greek language">Ancient Greek</a></span> <i class="polytonic mention" lang="grc" xml:lang="grc"><a href="https://www.google.com/search?rls=en&q=%E1%BC%84%CE%BB%CE%BB%CE%BF%CF%82#Ancient_Greek" title="ἄλλος">ἄλλος</a></i> <span class="mention-gloss-paren">(</span><span lang="" class="tr mention-tr" xml:lang="">állos</span>, <span class="mention-gloss-double-quote">“</span><span class="mention-gloss">other</span><span class="mention-gloss-double-quote">”</span><span class="mention-gloss-paren">)</span>,  from <span class="etyl"><a href="https://en.wikipedia.org/wiki/Proto-Greek_language" class="extiw" title="w:Proto-Greek language">Proto-Hellenic</a></span> <i class="Latinx mention" lang="grk-pro" xml:lang="grk-pro"><a href="https://www.google.com/search?rls=en&q=%C3%A1%C4%BE%C4%BEos" title="Reconstruction:Proto-Hellenic/áľľos">*áľľos</a></i>,  <br>from <span class="etyl"><a href="https://en.wikipedia.org/wiki/Proto-Indo-European_language" class="extiw" title="w:Proto-Indo-European language">Proto-Indo-European</a></span> <i class="Latinx mention" lang="ine-pro" xml:lang="ine-pro"><a href="https://www.google.com/search?rls=en&q=%C3%A1lyos" class="mw-redirect" title="Reconstruction:Proto-Indo-European/ályos">*ályos</a></i>, and <i class="Latinx mention" lang="ine-pro" xml:lang="ine-pro"><a href="https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/h₂élyos" title="Reconstruction:Proto-Indo-European/h₂élyos">*h₂élyos</a></i> (<span class="etyl"><a href="https://en.wikipedia.org/wiki/English_language" class="extiw" title="w:English language">English</a></span> <i class="Latn mention" lang="en" xml:lang="en"><a href="https://en.wikipedia.org/wiki/else#English" title="else">else</a></i>).</p>
@@ -22,7 +22,7 @@
 <h1 id="firstHeading" class="firstHeading" lang="en" align="right">4. genetic</h1>
 <div align="right">
 <i>See also:</i> <b><a href="https://www.google.com/search?rls=en&q=gen%C3%A8tic" title="genètic"> genètic</a></b>
-<p>From <span class="etylcleanup"><span class="etyl"><a href="https://en.wikipedia.org/wiki/Ancient_Greek_language" class="extiw" title="w:Ancient Greek language">Ancient Greek</a></span></span> <i class="polytonic mention" lang="grc" xml:lang="grc"><a href="https://www.google.com/search?rls=en&q=%CE%B3%CE%AD%CE%BD%CE%B5%CF%83%CE%B9%CF%82#Ancient_Greek" title="γένεσις">γένεσις</a></i> <span class="mention-gloss-paren">(</span><span lang="" class="tr mention-tr" xml:lang="">génesis</span>, <span class="mention-gloss-double-quote">“</span><span class="mention-gloss">origin</span><span class="mention-gloss-double-quote">”</span><span class="mention-gloss-paren">)</span>. <br>Ultimately from <i class="polytonic mention" lang="grc" xml:lang="grc"><a href="https://www.google.com/search?rls=en&q=%CE%B3%CE%AF%CE%B3%CE%BD%CE%BF%CE%BC%CE%B1%CE%B9#Ancient_Greek" title="γίγνομαι">γίγνομαι</a></i> <span class="mention-gloss-paren">(</span><span lang="" class="tr mention-tr" xml:lang="">gígnomai</span>, 
+<p>From <span class="etylcleanup"><span class="etyl"><a href="https://en.wikipedia.org/wiki/Ancient_Greek_language" class="extiw" title="w:Ancient Greek language">Ancient Greek</a></span></span> <i class="polytonic mention" lang="grc" xml:lang="grc"><a href="https://www.google.com/search?rls=en&q=%CE%B3%CE%AD%CE%BD%CE%B5%CF%83%CE%B9%CF%82#Ancient_Greek" title="γένεσις">γένεσις</a></i> <span class="mention-gloss-paren">(</span><span lang="" class="tr mention-tr" xml:lang="">génesis</span>, <span class="mention-gloss-double-quote">“</span><span class="mention-gloss">origin</span><span class="mention-gloss-double-quote">”</span><span class="mention-gloss-paren">)</span>. <br>Ultimately from <i class="polytonic mention" lang="grc" xml:lang="grc"><a href="https://www.google.com/search?rls=en&q=%CE%B3%CE%AF%CE%B3%CE%BD%CE%BF%CE%BC%CE%B1%CE%B9#Ancient_Greek" title="γίγνομαι">γίγνομαι</a></i> <span class="mention-gloss-paren">(</span><span lang="" class="tr mention-tr" xml:lang="">gígnomai</span>,
 <span class="mention-gloss-double-quote">“</span><span class="mention-gloss">I come into being</span><span class="mention-gloss-double-quote">”</span><span class="mention-gloss-paren">)</span>.</p>
 IPA(key): /ɡí.ɡno.ma͜i/ → /ˈɣi.ɣno.mɛ/ → /ˈʝi.ɣno.me/ <br>
 </div>
@@ -85,15 +85,15 @@ physical, bodily, corporal (relating to the body)<br>
 <h3 align="center"> Top directory executive function modules: </h3>
 
 
-# Firegrail 
-[Fi]gu[re] [g]ene[ra]t[i]on of a[l]lo-quantitated cfDNA: 
+# Firegrail
+[Fi]gu[re] [g]ene[ra]t[i]on of a[l]lo-quantitated cfDNA:
 
 * The primary module of the this package.
 * Facilitates single-line, ultra-simple invocation of vivid, to-the-point, bare-as-can-be visualizations that retain capture of all data characteristics essential for proving the conclusion being presented.
 * Strives to achieve: i) Not-overly-complex display of multivariate correlations whether linear/nonlinear/absolute/relative (avoids 3D), ii) Accurate scale representation (true transparency), iii) Dimensionality reduction as beneficial, iv) Judicious use of color & shape combinations, v) Correct choice of best-suited plot type (e.g., usually bar graphs win over violin-plots for quick & effective relative comparisons).
 * Defines a comprehensive suite of functions for QC-metrics & descriptive stats for interpretation of NGS output, including secondary pipeline analysis, tertiary analysis, and "post-tertiary QC" analysis
 * Imparts a stripped-clean, refreshingly plain, high-resolution image that puts to rest <i>all unease & all your dread of pixelation-asphyxiation</i>.
-* Top-level figure objects come fully-loaded allowing vast permutations of parameter configurations and essentially unlimited customizabilit. ~1,350 matplotlib network-linked attribute objects -- e.g. axes, ticks, tick_labels, spines, grid, legend, etc.; by default hidden and set to maximize universal pliability, but if desired robustly amenable to complex personalization. 
+* Top-level figure objects come fully-loaded allowing vast permutations of parameter configurations and essentially unlimited customizabilit. ~1,350 matplotlib network-linked attribute objects -- e.g. axes, ticks, tick_labels, spines, grid, legend, etc.; by default hidden and set to maximize universal pliability, but if desired robustly amenable to complex personalization.
 
 ~~~ python
 # code examples
@@ -102,7 +102,7 @@ ngs.firegrail.waterfalls(samples, vcf, [...])
 
 
 # Genocord
-[Geno]type con[cord]ance: 
+[Geno]type con[cord]ance:
 
 * ...
 * detail stuff
@@ -112,7 +112,7 @@ ngs.firegrail.waterfalls(samples, vcf, [...])
 ~~~
 
 # Nuclanote
-[Nucl]eotide [a]n[not]ation [e]valuation: 
+[Nucl]eotide [a]n[not]ation [e]valuation:
 
 * ...
 * detail stuff
@@ -121,9 +121,9 @@ ngs.firegrail.waterfalls(samples, vcf, [...])
 # code example
 ~~~
 
-# Panomatic 
-[Pan]das-driven aut[omatic] organization: 
- 
+# Panomatic
+[Pan]das-driven aut[omatic] organization:
+
 * of data through DataFrames for required input to pipeline, genotyping, and qc.
 * detail stuff
 
@@ -132,11 +132,11 @@ ngs.firegrail.waterfalls(samples, vcf, [...])
 ~~~
 
 # Quantallo
-[Quant]itation of %-"[allo]"-cfDNA: 
+[Quant]itation of %-"[allo]"-cfDNA:
 
 * e.g. solid organ donor-derived, tumor-derived somatic, etc.
 * including determination of precision, background estimation, error estimation and correction, genotype call confidence scoring
-* filtering of fail-QC variant sites to be flagged in output. 
+* filtering of fail-QC variant sites to be flagged in output.
 * detail stuff
 
 ~~~ py
@@ -144,7 +144,7 @@ ngs.firegrail.waterfalls(samples, vcf, [...])
 ~~~
 
 # Sinuvysis
-[Si]ngle [nu]cleotide [v]ariant anal[ysis] ("sī-NEW-vuh-sys"): 
+[Si]ngle [nu]cleotide [v]ariant anal[ysis] ("sī-NEW-vuh-sys"):
 
 * ...
 * detail stuff
@@ -154,7 +154,7 @@ ngs.firegrail.waterfalls(samples, vcf, [...])
 ~~~
 
 # Somation
-[S]ummarization of s[om]atic mut[ation]s: 
+[S]ummarization of s[om]atic mut[ation]s:
 
 * ...
 * detail stuff
@@ -167,6 +167,6 @@ ngs.firegrail.waterfalls(samples, vcf, [...])
 
 <div align="center">
 
-## 𐃠
+<h2> 𐃠 </h2>
 
 </div>
