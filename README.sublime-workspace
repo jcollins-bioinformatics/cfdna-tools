@@ -1,0 +1,366 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Orac",
+				"Oracle_con"
+			],
+			[
+				"norm",
+				"norm_approx_equal_scale"
+			],
+			[
+				"bpmf",
+				"bpmf_bxfrY_max_ratio"
+			],
+			[
+				"num",
+				"num_examples"
+			],
+			[
+				"exampl",
+				"example_len"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 367.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 167.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (",
+			"dir(sublime)",
+			"dir()",
+			"`dir()",
+			"print('\\n'.join([subprocess.x for x in dir(subprocess)]))",
+			"print('\\n'.join([subprocess+'.'+x for x in dir(subprocess)]))",
+			"for x in dir(subprocess):",
+			"print(subprocess.Popen(['pwd']))",
+			"dir(subprocess)",
+			"print(subprocess.call(['pwd']))",
+			"print(subprocess(['pwd'])",
+			"import subprocess",
+			"dir(subprocess)",
+			"what"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jcollins-macbook/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/jcollins-macbook/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/jcollins-macbook/whole_tree_output.txt",
+		"/Users/jcollins-macbook/Documents/iCloud-cfDNA/pbcore-master/pbcore/io/__init__.py",
+		"/Volumes/ftp.ncbi.nlm.nih.gov/giab/ftp/technical/complete_data/HG001_NA12878_LFR/README_LFR.txt",
+		"/Users/jcollins-macbook/Documents/iCloud-cfDNA/cfdna-tools/util/doDroplet_oracle_connect.py",
+		"/Users/jcollins-macbook/Documents/iCloud-cfDNA/cfdna-tools-private/doc/examples/my_py_libraries.py",
+		"/Users/jcollins-macbook/Documents/iCloud-cfDNA/cfdna-tools/.gitignore",
+		"/Users/jcollins-macbook/Documents/iCloud-cfDNA/genomics_analysis/ExAC-2017-resources/README",
+		"/Users/jcollins-macbook/.bash_profile",
+		"/Volumes/ftp.ncbi.nlm.nih.gov/giab/ftp/technical/platinum_genomes/2016-1.0/ReleaseNotes.txt",
+		"/Volumes/ftp.ncbi.nlm.nih.gov/giab/ftp/technical/platinum_genomes/bams_vcfs_4individules_2013/readme",
+		"/Users/jcollins-macbook/Documents/iCloud-cfDNA/cfdna-tools/src/nexgendx/sinuvyis.py",
+		"/Users/jcollins-macbook/Documents/iCloud-cfDNA/cfdna-tools/find_my_Py.py",
+		"/Users/jcollins-macbook/Documents/iCloud-cfDNA/cfdna-tools/src/nexgendx/util/make_fastqs.py",
+		"/Users/jcollins-macbook/Documents/iCloud-cfDNA/cfdna-tools/src/nexgendx/util/make_fake_reference.py",
+		"/Users/jcollins-macbook/Documents/iCloud-cfDNA/cfdna-tools/LICENSE",
+		"/Users/jcollins-macbook/Documents/iCloud-cfDNA/cfdna-tools/README.md",
+		"/Users/jcollins-macbook/Documents/iCloud-cfDNA/Python/ironman_threading_test.py",
+		"/Volumes/Groups/Research/John C/Bioinformatics/AlloSure dd-cfDNA pipeline/secondary(stationx)/CareDx_StationX_secondary_pipeline.txt",
+		"/Users/jcollins-macbook/Documents/iCloud-cfDNA/CDx-binf/genomics_analysis/Final_draft_FPLEX.bed.txt",
+		"/Users/jcollins-macbook/Documents/iCloud-cfDNA/CDx-binf/genomics_analysis/final_fplex_reference.bed.txt",
+		"/Users/jcollins-macbook/Downloads/python-cx_Oracle-master/setup.py",
+		"/Users/jcollins-macbook/Documents/iCloud-cfDNA/Python/core-py-utils/create_waterfall_plots_pdf.py",
+		"/Users/jcollins-macbook/Documents/iCloud-cfDNA/Python/testinstall.py",
+		"/Users/jcollins-macbook/Downloads/MagicPython-master/sublime.py",
+		"/Users/jcollins-macbook/Library/Application Support/Sublime Text 3/Packages/User/Shell-Unix-Generic.sublime-settings",
+		"/Users/jcollins-macbook/Documents/iCloud-cfDNA/AlloSure Analytical Validation/PCR Multiplexing/NIST_GIAB_Benchmarking_Analysis.html",
+		"/Users/Quaesiveris/Python/CareDx/allosure-adv-pipeline/les-mis_shared-zygos-correlations-heatmap.py",
+		"/Users/jcollins-macbook/Downloads/palette.svg",
+		"/Users/Quaesiveris/Python/bokeh/charts/server/interactive_excel.py",
+		"/Volumes/Groups/Research/cfDNA Records/Targeted Pipeline/Primers and Assays/282 amplicon genome data.txt",
+		"/Users/jcollins-macbook/.bash_profile_iMac",
+		"/Users/jcollins-macbook/Documents/iCloud-cfDNA/cfdna-tools/misc_util.py",
+		"/Users/jcollins-macbook/Documents/iCloud-cfDNA/genomics_analysis/README.release1",
+		"/Users/jcollins-macbook/Documents/iCloud-cfDNA/cfdna-tools/some_useful_pandas.py",
+		"/Users/jcollins-macbook/Documents/iCloud-cfDNA/cfdna-tools-private/LICENSE",
+		"/Users/jcollins-macbook/Documents/iCloud-cfDNA/cfdna-tools-private/README.md",
+		"/Volumes/ExAC_release/release1/README.release1",
+		"/Volumes/ExAC_release/release1/subsets/README",
+		"/Volumes/Groups/Research/John C/Bioinformatics/AlloSure dd-cfDNA pipeline/Running pipeline on MiSeq output_fromJFB.txt",
+		"/Volumes/Groups/Research/John C/Bioinformatics/AlloSure dd-cfDNA pipeline/tertiary(R)/tertiary_config_V6.0.2.SR",
+		"/Volumes/Groups/Research/John C/Bioinformatics/AlloSure dd-cfDNA pipeline/secondary(stationx)/pipeline_script_v0f_SR_read_1_no_trim.sh",
+		"/Volumes/Groups/Research/John C/Analytical validation/AlloSure JMD manuscript figures/plot_Fig6B&6C - RvsNR and results post-treatment.py",
+		"/Volumes/Groups/Research/John C/Bioinformatics/AlloSure dd-cfDNA pipeline/tertiary(R)/tertiary_config_V6.0.4.noBkgr.RHCO_25_UCO_95.config",
+		"/Users/jcollins-macbook/Python/cfDNA/all_output_bySample_160109.lst",
+		"/Volumes/Groups/Research/John C/change_names.py",
+		"/Volumes/Seagate Backup Plus Drive/thomas/Genotypes/ProspectiveStudy/patient_list_genotyping",
+		"/Users/jcollins-macbook/Downloads/Stanford-HTx-Adults-ASvsSG_160812-16.html",
+		"/Users/Quaesiveris/Python/CareDx/allosure-adv-pipeline/allosure-adv/README.html",
+		"/Users/Quaesiveris/Python/CareDx/stanford-htx-study/generate_essentials_report.py",
+		"/Users/Quaesiveris/Python/CareDx/allosure-adv-pipeline/Raleway-html-style.css",
+		"/Volumes/Groups/Research/John C/Clinical samples analysis/Stanford HTx Study /Adult/SF-HTx-Adults_ASvsSG_SNP-level-analysis_final-doc_160820.html",
+		"/Users/jcollins-macbook/Python/cfDNA/stanford/khush-htx/ASvsSG_merged_160811_QC-filter-both_30_overlap_only.csv",
+		"/Users/jcollins-macbook/Python/cfDNA/stanford/omnichip-data/raw_1-12.txt",
+		"/Users/jcollins-macbook/Python/cfDNA/stanford/omnichip-data/parse_omnichip_data.py",
+		"/Volumes/Groups/Research/John C/Clinical samples analysis/Stanford Gallo KLvTx Study/iPython primary analysis notebooks/parse-Gallo-results_correlation-matrix-heatmap-clustering_160825.html",
+		"/Users/jcollins-macbook/Downloads/Stanford-HTx-Adults-ASvsSG_160812-4.html",
+		"/Users/jcollins-macbook/Downloads/Stanford-HTx-Adults-ASvsSG_160812.html",
+		"/Users/jcollins-macbook/Python/cfDNA/allosure-adv-pipeline/documentation/AlloSure-ADV-Alpha_V0.1.5_edits3.html",
+		"/Users/jcollins-macbook/Python/cfDNA/stanford-htx-study/html_tests/diff_fuck_this.txt",
+		"/Users/jcollins-macbook/Downloads/SF-HTx-Study-Adults_summary_%26_comparison-to-Shotgun_refined_final-160810.html",
+		"/Users/jcollins-macbook/Downloads/using_gpu_solution_1.py",
+		"/Users/jcollins-macbook/Downloads/Stanford-HTx-Adults-ASvsSG_160811-5.html",
+		"/Users/Quaesiveris/Python/CareDx/allosure-adv-pipeline/allosure-adv/AlloSure-ADV-Alpha_V0.1.5.html",
+		"/Users/jcollins-macbook/Downloads/Stanford-HTx-Adults-ASvsSG_160811-3.html",
+		"/Users/Quaesiveris/CareDx/allosure-adv-pipeline/test_bokeh.py",
+		"/Users/Quaesiveris/Python/pyTools/termtools/scan_all_files.py",
+		"/Users/Quaesiveris/Python/pyTools/print_neat_cwd_dir_tree.py",
+		"/Users/Quaesiveris/Python/CareDx/allosure-adv-pipeline/allosure-adv/AlloSure-ADV-Alpha_V0.1.html",
+		"/Users/Quaesiveris/Python/CareDx/cfdna_tools.py",
+		"/Users/Quaesiveris/Python/CareDx/stanford-htx-study/plot_correlation.py",
+		"/Users/Quaesiveris/Python/CareDx/z__cfdna-xfr_160728-mbp-backup/cfDNA_160728-backup/Stanford Peds/Batch 3 analysis/plot_MeanGenotypeSorted_Waterfalls.py",
+		"/Users/Quaesiveris/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Quaesiveris/__Python/CareDx/tertiary-output-data/all_Seq01_outputBySNP_160802.df.info",
+		"/Users/Quaesiveris/Python/CareDx/allosure-adv-pipeline/binomial-modeling/plot_266_SNP_binom_pmf.py",
+		"/Users/Quaesiveris/.bash_profile",
+		"/Users/Quaesiveris/d3/test_2_d3.js",
+		"/Users/Quaesiveris/d3/test_d3json.html",
+		"/Users/Quaesiveris/d3/test_d3json.js",
+		"/Users/Quaesiveris/d3/d3.v2.min.js",
+		"/Users/Quaesiveris/d3/test_d3.html",
+		"/Users/Quaesiveris/__Python/CareDx/allosure-adv-pipeline/binomial-modeling/plot_266_SNP_binom_pmf_160801-mbp-diffs.py",
+		"/Users/Quaesiveris/__~Python/CareDx/allosure-adv-pipeline/binomial-modeling/plot_266_SNP_binom_pmf_160801-mbp-diffs.py",
+		"/Users/Quaesiveris/CareDx/allosure-adv-pipeline/Binomial random variable modeling/plot_266_SNP_binom_pmf.py",
+		"/Users/Quaesiveris/Python/CareDx/allosure-adv-pipeline/binomial-random-variable-modeling/plot_266_SNP_binom_pmf_160801-mbp-diffs.py",
+		"/Users/Quaesiveris/macbook-cfdna-transfer/cfDNA_160728-backup/pyTools/cfdna_tools.py",
+		"/Users/Quaesiveris/CareDx/allosure-adv-pipeline/Binomial random variable modeling/plot_266_SNP_binom_pmf_only.py",
+		"/Users/Quaesiveris/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/DFBCAB71-F060-4BE9-BB76-71134E27D3CA/Outline of analysis for Fig. 5A of Analytical Validation Manuscript (Grskovic, et al.)- Determination of Limit of Quantification from Horizon reference panels.html",
+		"/Users/Quaesiveris/Python/system_settings_discovery/scan_all_files.py",
+		"/Users/Quaesiveris/CareDx/cfdna_tools.py",
+		"/Users/Quaesiveris/macbook-cfdna-transfer/cfDNA_160728-backup/pyTools/KARGO_AUC_analysis.py",
+		"/Users/Quaesiveris/CareDx/allosure-adv-pipeline/Binomial random variable modeling/266-SNP_binom-pmf_only_N=[0-238].pdf",
+		"/Users/Quaesiveris/Library/Containers/com.apple.mail/Data/Library/Mail Downloads/2ECF656D-1F9E-40D3-8A8B-F83694AFB095/Outline of analysis for Fig. 5A of Analytical Validation Manuscript (Grskovic, et al.)- Determination of Limit of Quantification from Horizon reference panels.md",
+		"/Users/Quaesiveris/CareDx/allosure-adv-pipeline/plot_266_SNP_binom_pmf.py",
+		"/Users/Quaesiveris/CareDx/allosure-adv-pipeline/plot_266_SNP_binom_pdf.py",
+		"/Users/Quaesiveris/Python/Preferences.sublime-settings_fromMBP_160730",
+		"/Users/Quaesiveris/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/Quaesiveris/Python/MachineLearning/GRUV-master/config/nn_config.py",
+		"/Users/Quaesiveris/Python/MachineLearning/GRUV-master/nn_utils/network_utils.py",
+		"/Users/Quaesiveris/Python/MachineLearning/GRUV-master/convert_directory.py",
+		"/Users/Quaesiveris/Python/MachineLearning/GRUV-master/data_utils/parse_files.py",
+		"/Users/Quaesiveris/Python/MachineLearning/GRUV-master/class color:",
+		"/Users/Quaesiveris/Python/MachineLearning/GRUV-master/train.py",
+		"/Users/Quaesiveris/Python/MachineLearning/GRUV-master/gen_utils/seed_generator.py",
+		"/Users/Quaesiveris/Python/MachineLearning/GRUV-master/gen_utils/sequence_generator.py",
+		"/Users/Quaesiveris/Python/MachineLearning/GRUV-master/generate.py",
+		"/Users/Quaesiveris/Library/Application Support/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/Users/Quaesiveris/Python/pdQuickDescribe.py",
+		"/Users/Quaesiveris/MachineLearning/GRUV-master/nn_utils/network_utils.py",
+		"/Users/Quaesiveris/MachineLearning/GRUV-master/train.py",
+		"/Library/Python/2.7/site-packages/theano/gof/cmodule.py",
+		"/Library/Python/2.7/site-packages/theano/gof/cmodule.pyc",
+		"/Users/Quaesiveris/MachineLearning/GRUV-master/gen_utils/seed_generator.py",
+		"/Users/Quaesiveris/MachineLearning/GRUV-master/gen_utils/sequence_generator.py",
+		"/Users/Quaesiveris/MachineLearning/GRUV-master/generate.py",
+		"/Users/Quaesiveris/MachineLearning/GRUV-master/config/nn_config.py"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"show",
+			"{",
+			"    \"",
+			"1",
+			"blink",
+			"f ",
+			"f",
+			"ufurl",
+			"㊝",
+			"tqdm",
+			"4",
+			"python3",
+			"sam",
+			"datetime",
+			"ignore",
+			"print_progress",
+			"def",
+			"rs113416774",
+			"rs112550327",
+			"bold",
+			"sd",
+			"input_area",
+			"monos",
+			"input",
+			"=\"input\"",
+			"class=\"input\"",
+			"@media",
+			"width",
+			"font",
+			"big>",
+			"big",
+			"Quaesiveris",
+			"df_JFB_SG",
+			"180",
+			"238",
+			"loc",
+			"ax1",
+			"plt",
+			"ax",
+			"show",
+			"view",
+			"transp",
+			"pd"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"jcollins-macbook",
+			"plt"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 124.0
+	},
+	"pinned_build_system": "",
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 220.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
