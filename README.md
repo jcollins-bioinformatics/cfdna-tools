@@ -25,11 +25,26 @@ circulating cell-free DNA.
 
 <br>
 
-1. this
-2. that
-3. these
+1. Select a panel of SNPs using NCBI's dbSNP that have MAF's close to 50%
+ - show binomial/Mendelian principles behind utility of MAF=~0.50 SNPs
+ - output annotation information 
+ - generate BED & FASTQ mapping reference file for these SNPs
+2. Download selected panel-matching regions of genomes in NIST GIAB samples
+ - create in silico "donor-derived" cf-DNA mixtures incorporating MNase-Seq data 
+ + TSS annotations
+ - "mix" fastqs (while introducing a variable error rate) at a series of dilutions
+ - create mock three-genome contaminated sample(s) 
+ - create both related (parent donates to child) and unrelated (CEU vs. other) spike-ins
+ - create replication of varying coverage density and read uniqueness, and create
+ sample replicates both for blanks & spike-ins 
+3. Mapping & variant calling pipeline
  - etc
  - etc 
+4. Tertiary analysis 
+ - 
+ -
+ -
+
 
 <br>
 
