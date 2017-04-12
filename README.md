@@ -74,21 +74,13 @@ Example datasets:
 
 ## License 
 
-NOT INTENDED FOR COMMERCIAL USE !
 
 <big>®</big> All rights reserved. Free to copy, modify, use for personal analysis/education, share with friends, 
 but not patent, sell, distribute on large-scale, use for any commerical/for-profit purposes, etc. 
 (see <a href="">my LICENSE</a>, <a href="">GATK LICENSE</a>, & <a href="">more</a>)
 
+NOT INTENDED FOR COMMERCIAL USE.
 <div align="center">
-
-<br>
-
-``@+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
-``𝝘𝝝𝝝𝝘𝝩𝝝𝝘𝝖𝝝𝝩𝝩𝝝𝝖𝝩𝝖𝝖𝝝𝝩𝝩𝝝𝝩𝝩𝝩𝝝𝝘𝝖𝝝𝝩𝝩𝝝𝝩𝝖𝝖𝝝𝝩𝝩𝝝𝝩𝝖𝝖𝝝𝝖𝝖𝝝𝝩𝝩𝝝𝝩𝝖𝝖𝝝𝝩𝝩𝝝𝝩𝝩𝝩𝝝𝝘𝝩𝝝𝝘𝝖𝝘𝝖𝝖𝝩𝝝𝝝𝝘``
-``++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
-``DAEEEEDGGGIIIEJKKKJLKPKGGGGGGGGLGLGLKHHHHHKGGDJHHHHKGGDEJKKKJLKPKGGGGGKAAAAAABBJ``
-``@+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++``
 
 <br>
 
