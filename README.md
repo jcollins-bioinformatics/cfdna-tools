@@ -1,4 +1,4 @@
-<img src="./doc/design/nexgendx_logo.png" width=87%>
+<img src="https://github.com/jcollins-bioinformatics/nexgendx/doc/design/nexgendx_logo.png" width=87%>
 
 ```py
 [bash]~$ python3
@@ -6,7 +6,7 @@
 >>> # simple command prompt example
 >>> tumor_genome = ngs.teraget(, con=ngs.sqlalcmy(...))
 >>> # do more
->>> 
+>>> https://github.com/jcollins-bioinformatics/nexgendx/blob/master/README.md
 >>> very 
 >>> basic
 >>> nice illustrative
