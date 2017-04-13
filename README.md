@@ -1,4 +1,4 @@
-<img src="https://github.com/jcollins-bioinformatics/nexgendx/doc/design/nexgendx_logo.png" width=87%>
+<img src="https://github.com/jcollins-bioinformatics/nexgendx/tree/master/doc/design/nexgendx_logo.png" width=87%>
 
 ```py
 [bash]~$ python3
