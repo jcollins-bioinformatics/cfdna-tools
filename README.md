@@ -1,4 +1,7 @@
-<img src="./doc/design/nexgendx_logo.png" width=50%>
+<p align="center">
+<img src="./doc/design/nexgendx_logo.png" width=70%>
+</p>
+
 
 ```py
 [bash]~$ python3
@@ -15,6 +18,7 @@
 >>> :Dctrl+d
 ctrl+c
 ```
+
 
 <h1 align="center" underline=0>
 Next-gen sequencing analysis tools for<br/>
