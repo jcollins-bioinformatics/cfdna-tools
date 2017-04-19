@@ -1,4 +1,5 @@
-<img src="./doc/design/nexgendx_logo.png" width=60%>
+<img src="./doc/design/nexgendx_logo.png" width=80%>
+
 
 ```py
 [bash]~$ python3
