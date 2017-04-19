@@ -1,5 +1,9 @@
-<img src="./doc/design/nexgendx_logo.png" width=80%>
-
+<p align="center">
+<img src="./doc/design/nexgendx_logo.png" width=90%>
+</p>
+<h1 align="center" underline=0 >diagnostic cell-free DNA<br/>
+analysis tools
+</h1>
 
 ```py
 [bash]~$ python3
@@ -18,10 +22,6 @@ ctrl+c
 ```
 
 
-<h1 align="center" underline=0>
-Next-gen sequencing analysis tools for<br/>
-circulating cell-free DNA.
-</h1>
 
 <br>
 
