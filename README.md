@@ -1,5 +1,5 @@
 <p align="center">
-<img src="./doc/design/nexgendx_logo.png" width=70%>
+<img src="./doc/design/nexgendx_logo.png" width=80%>
 </p>
 
 
