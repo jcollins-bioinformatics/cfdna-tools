@@ -111,8 +111,8 @@ NOT INTENDED FOR COMMERCIAL USE.
 
 <div align="center">
 
-``⊰♘𝚿⚔⊱ 2017 | J.Collins | ⚕ nexgendx.``            ➉❶①⓪🄵🅡ⓔⓔ🄲🅾ⓓⓔ㊝①➓➀
-
+``⊰♘𝚿⚔⊱ 2017 | J.Collins | ⚕ nexgendx.``                     ➉❶①⓪🄵🅡ⓔⓔ🄲🅾ⓓⓔ㊝①➓➀
+<br>
 ~~~ py
 (1*2^8 + 0*2^7 + 1*2^6 + 1*2^5 + 0*2^4 + 1*2^3 + 1*2^2 + 0*2^1 + 1*2^0) = 365
 ~~~
