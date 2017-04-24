@@ -5,19 +5,23 @@ analysis & visualization tools
 </h1>
 
 ```py
-[bash]~$ python3
->>> import nexgendx as ngs
->>> # simple command prompt example
->>> tumor_genome = ngs.teraget(, con=ngs.sqlalcmy(...))
->>> # do more
->>> https://github.com/jcollins-bioinformatics/nexgendx/blob/master/README.md
->>> very 
->>> basic
+~$ python3
+>>>
+>>> import nexgendx as ngdx
+>>>
+>>> import ngdx.visequacef as vzcf 
+>>> import ngdx.pandagea as pdga 
+>>> import ngdx.quantallo as qtlo
+>>> 
+>>> very basic
 >>> nice illustrative
 >>> example 
->>> load / calc stats / visualize 
->>> :Dctrl+d
-ctrl+c
+>>> 
+>>> e.g.,
+>>> df_vcf = pdga.load_vcf('./path-to-test.vcf', [options])
+>>> df_vcf_stats = pdga.get_stats_for_df(df_vcf)
+>>> vzcf.numeric_hist(df_vcf_stats)
+>>> 
 ```
 
 
