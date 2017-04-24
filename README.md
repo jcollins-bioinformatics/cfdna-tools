@@ -18,6 +18,8 @@ analysis & visualization tools
 >>> 
 >>> e.g.,
 >>> df_vcf = pdga.load_vcf('./path-to-test.vcf', [options])
+>>> # reorganize vcf into dataframe, plus some additional calculated 
+>>> # metrics (mean error freq, alt. allele freq., etc)
 >>> df_vcf_stats = pdga.get_stats_for_vcf(df_vcf)
 >>> vzcf.numeric_hist(df_vcf_stats)
 >>> 
@@ -28,10 +30,9 @@ analysis & visualization tools
     )
 >>>
 >>> # Generate a seaborn clustermap, and Bokeh interactive heatmap :
->>>> vzcf.visgen_corr_matrix_all(df_SNP_alt_allele_corr)
+>>> vzcf.visgen_corr_matrix_all(df_SNP_alt_allele_corr)
 >>>
 ```
-
 
 
 <br>
