@@ -12,7 +12,7 @@ analysis & visualization tools
 >>> import nexgendx.nuclanote as ncan
 >>> import nexgendx.pandagea as pdga 
 >>> import nexgendx.quantallo as qtlo
->>> import nexgendx.sinuvysis as svys
+>>> import nexgendx.sinuvysis as suva
 >>> import nexgendx.somation as soma
 >>> import nexgendx.visequacef as vzcf 
 >>> 
