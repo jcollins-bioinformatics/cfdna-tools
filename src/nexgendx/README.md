@@ -2,7 +2,7 @@
 <h3 align="center"> Top directory executive function modules: </h3>
 
 
-# 1. Visequacef
+# 1. vzcf (visequacef)
 `import ngs.visequacef as vzcf`
 
 [Vis]uali[z]ation of allo-[qua]ntitated [ce]ll-[f]ree DNA:
