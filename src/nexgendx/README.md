@@ -85,7 +85,7 @@ physical, bodily, corporal (relating to the body)<br>
 <h3 align="center"> Top directory executive function modules: </h3>
 
 
-# import ngs.visequacef as vzcd
+# import ngs.visequacef as vzcf
 
 [Vis]uali[z]ation of allo-[qua]ntitated [ce]ll-[f]ree DNA:
 
@@ -98,7 +98,7 @@ physical, bodily, corporal (relating to the body)<br>
 
 ~~~ python
 # code examples
-vzcd.waterfalls(samples, vcf, [...])
+vzcf.waterfalls(samples, vcf, [...])
 ~~~
 
 
