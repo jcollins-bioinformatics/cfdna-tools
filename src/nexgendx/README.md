@@ -86,7 +86,10 @@ vzcf.waterfalls(samples, vcf, [...])
 ~~~
 
 <br>
-
+<br>
+<br>
+___________
+<br>
 <h1 id="firstHeading"- class="firstHeading" lang="en">1. allo-</h1>
 <div align="left">
 <i>See also: </i> <b><a href="https://www.google.com/search?rls=en&q=allo" title="allo">allo </a></b>,  <b><a href="https://en.wiktionary.org/wiki/alla-#Irish" title="allô">allô </a></b>,  <b><a href="https://en.wiktionary.org/wiki/άλλος#Greek" title="allò">allò </a></b> <span class="serial-comma">, </span> <i><span class="serial-and">and </span></i> <b><a href="https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/h₂élyos" title="álló">álló </a></b>
