@@ -1,4 +1,92 @@
 
+<h3 align="center"> Top directory executive function modules: </h3>
+
+
+# 1. Visequacef
+`import ngs.visequacef as vzcf`
+
+[Vis]uali[z]ation of allo-[qua]ntitated [ce]ll-[f]ree DNA:
+
+* The primary module of this package.
+* Facilitates single-line, ultra-simple invocations for vivid + impactful analytical visualization
+* Defines a comprehensive suite of functions for QC-metrics & descriptive stats for interpretation of NGS output, including secondary pipeline analysis, tertiary analysis, and "post-tertiary QC" analysis
+* (RE:Goal: stripped-clean, refreshingly plain, high-resolution images)
+
+~~~ python
+# code examples
+vzcf.waterfalls(samples, vcf, [...])
+~~~
+
+
+# 2. Genocord
+`import ngs.genocord as gnco`
+[Geno]type con[cord]ance:
+
+* ...
+* detail stuff
+
+~~~ py
+# code example
+~~~
+
+# 3. Nuclanote
+`import ngs.nuclanote as nuno`
+[Nucl]eotide [a]n[not]ation [e]valuation:
+
+* ...
+* detail stuff
+
+~~~ py
+# code example
+~~~
+
+# 4. Pandagea 
+`import ngs.pandagea as pdga`
+[Pan]das-driven aut[omatic] organization:
+
+* of data through DataFrames for required input to pipeline, genotyping, and qc.
+* detail stuff
+
+~~~ py
+# code example
+~~~
+
+# Quantallo
+`import ngs.quantallo as qtlo`
+[Quant]itation of %-"[allo]"-cfDNA:
+
+* e.g. solid organ donor-derived, tumor-derived somatic, etc.
+* including determination of precision, background estimation, error estimation and correction, genotype call confidence scoring
+* filtering of fail-QC variant sites to be flagged in output.
+* detail stuff
+
+~~~ py
+# code example
+~~~
+
+# Sinuvasis
+`import ngs.sinuvasis as suva`
+[Si]ngle [nu]cleotide [v]ariant anal[ysis] ("sī-NEW-vuh-sys"):
+
+* ...
+* detail stuff
+
+~~~ py
+# code example
+~~~
+
+# Somation
+[S]ummarization of s[om]atic mut[ation]s:
+
+* ...
+* detail stuff
+
+~~~ py
+# code example
+~~~
+
+<br>
+
 <h1 id="firstHeading"- class="firstHeading" lang="en">1. allo-</h1>
 <div align="left">
 <i>See also: </i> <b><a href="https://www.google.com/search?rls=en&q=allo" title="allo">allo </a></b>,  <b><a href="https://en.wiktionary.org/wiki/alla-#Irish" title="allô">allô </a></b>,  <b><a href="https://en.wiktionary.org/wiki/άλλος#Greek" title="allò">allò </a></b> <span class="serial-comma">, </span> <i><span class="serial-and">and </span></i> <b><a href="https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/h₂élyos" title="álló">álló </a></b>
@@ -82,93 +170,7 @@ physical, bodily, corporal (relating to the body)<br>
 
 <br>
 
-<h3 align="center"> Top directory executive function modules: </h3>
-
-
-# import ngs.visequacef as vzcf
-
-[Vis]uali[z]ation of allo-[qua]ntitated [ce]ll-[f]ree DNA:
-
-* The primary module of this package.
-* Facilitates single-line, ultra-simple invocations for vivid + impactful analytical visualization
-* Defines a comprehensive suite of functions for QC-metrics & descriptive stats for interpretation of NGS output, including secondary pipeline analysis, tertiary analysis, and "post-tertiary QC" analysis
-* (RE:Goal: stripped-clean, refreshingly plain, high-resolution images)
-
-~~~ python
-# code examples
-vzcf.waterfalls(samples, vcf, [...])
-~~~
-
-
-# Genocord
-`import ngs.genocord as gnco`
-[Geno]type con[cord]ance:
-
-* ...
-* detail stuff
-
-~~~ py
-# code example
-~~~
-
-# Nuclanote
-`import ngs.nuclanote as nuno`
-[Nucl]eotide [a]n[not]ation [e]valuation:
-
-* ...
-* detail stuff
-
-~~~ py
-# code example
-~~~
-
-# Pandauto 
-`import ngs.pandauto as pdto`
-[Pan]das-driven aut[omatic] organization:
-
-* of data through DataFrames for required input to pipeline, genotyping, and qc.
-* detail stuff
-
-~~~ py
-# code example
-~~~
-
-# Quantallo
-`import ngs.quantallo as qtlo`
-[Quant]itation of %-"[allo]"-cfDNA:
-
-* e.g. solid organ donor-derived, tumor-derived somatic, etc.
-* including determination of precision, background estimation, error estimation and correction, genotype call confidence scoring
-* filtering of fail-QC variant sites to be flagged in output.
-* detail stuff
-
-~~~ py
-# code example
-~~~
-
-# Sinuvasis
-`import ngs.sinuvasis as suva`
-[Si]ngle [nu]cleotide [v]ariant anal[ysis] ("sī-NEW-vuh-sys"):
-
-* ...
-* detail stuff
-
-~~~ py
-# code example
-~~~
-
-# Somation
-[S]ummarization of s[om]atic mut[ation]s:
-
-* ...
-* detail stuff
-
-~~~ py
-# code example
-~~~
-
 <br>
-
 <div align="center">
 
 <h2> 𐃠 </h2>
