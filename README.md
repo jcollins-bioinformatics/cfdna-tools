@@ -1,4 +1,4 @@
-<img src="./doc/design/nexgendx_logo.png" width=80%>
+<img src="./doc/design/nexgendx_logo.png" width=75%>
 
 <h1 align="left" underline=0 >diagnostic cell-free DNA<br/>
 analysis & visualization tools
@@ -6,7 +6,6 @@ analysis & visualization tools
 
 ```py
 ~$ python3
->>>
 >>> import nexgendx as ngdx
 >>>
 >>> import ngdx.visequacef as vzcf 
@@ -19,9 +18,18 @@ analysis & visualization tools
 >>> 
 >>> e.g.,
 >>> df_vcf = pdga.load_vcf('./path-to-test.vcf', [options])
->>> df_vcf_stats = pdga.get_stats_for_df(df_vcf)
+>>> df_vcf_stats = pdga.get_stats_for_vcf(df_vcf)
 >>> vzcf.numeric_hist(df_vcf_stats)
 >>> 
+>>> df_SNP_alt_allele_corr = pdga.gen_corr_matrix(
+        input_df=df_vcf_stats,
+        index=index, # should be sample name
+        val=this_col, # point to col containing alt. allele freqs
+    )
+>>>
+>>> # Generate a seaborn clustermap, and Bokeh interactive heatmap :
+>>>> vzcf.visgen_corr_matrix_all(df_SNP_alt_allele_corr)
+>>>
 ```
 
 
