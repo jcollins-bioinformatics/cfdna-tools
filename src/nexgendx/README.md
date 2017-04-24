@@ -2,8 +2,8 @@
 <h3 align="center"> Top directory executive function modules: </h3>
 
 
-# 1. vzcf (visequacef)
-`import ngs.visequacef as vzcf`
+# 1. Vzcf (Visequacef)
+`from ngdx import vzcf`
 
 [Vis]uali[z]ation of allo-[qua]ntitated [ce]ll-[f]ree DNA:
 
@@ -51,7 +51,7 @@ vzcf.waterfalls(samples, vcf, [...])
 # code example
 ~~~
 
-# Quantallo
+# 5. Quantallo
 `import ngs.quantallo as qtlo`
 [Quant]itation of %-"[allo]"-cfDNA:
 
@@ -64,7 +64,7 @@ vzcf.waterfalls(samples, vcf, [...])
 # code example
 ~~~
 
-# Sinuvasis
+# 6. Sinuvasis
 `import ngs.sinuvasis as suva`
 [Si]ngle [nu]cleotide [v]ariant anal[ysis] ("sī-NEW-vuh-sys"):
 
@@ -75,7 +75,7 @@ vzcf.waterfalls(samples, vcf, [...])
 # code example
 ~~~
 
-# Somation
+# 7. Somation
 [S]ummarization of s[om]atic mut[ation]s:
 
 * ...
