@@ -3,7 +3,7 @@
 
 
 # 1. Vzcf (Visequacef)
-`from ngdx import vzcf`
+`import ngdx.visequacef as vzcf`
 
 [Vis]uali[z]ation of allo-[qua]ntitated [ce]ll-[f]ree DNA:
 
@@ -19,7 +19,7 @@ vzcf.waterfalls(samples, vcf, [...])
 
 
 # 2. Genocord
-`import ngs.genocord as gnco`
+`import ngdx.genocord as gnco`
 [Geno]type con[cord]ance:
 
 * ...
@@ -30,7 +30,7 @@ vzcf.waterfalls(samples, vcf, [...])
 ~~~
 
 # 3. Nuclanote
-`import ngs.nuclanote as nuno`
+`import ngdx.nuclanote as nuno`
 [Nucl]eotide [a]n[not]ation [e]valuation:
 
 * ...
@@ -41,7 +41,7 @@ vzcf.waterfalls(samples, vcf, [...])
 ~~~
 
 # 4. Pandagea 
-`import ngs.pandagea as pdga`
+`import ngdx.pandagea as pdga`
 [Pan]das-driven aut[omatic] organization:
 
 * of data through DataFrames for required input to pipeline, genotyping, and qc.
@@ -52,7 +52,7 @@ vzcf.waterfalls(samples, vcf, [...])
 ~~~
 
 # 5. Quantallo
-`import ngs.quantallo as qtlo`
+`import ngdx.quantallo as qtlo`
 [Quant]itation of %-"[allo]"-cfDNA:
 
 * e.g. solid organ donor-derived, tumor-derived somatic, etc.
@@ -65,7 +65,7 @@ vzcf.waterfalls(samples, vcf, [...])
 ~~~
 
 # 6. Sinuvasis
-`import ngs.sinuvasis as suva`
+`import ngdx.sinuvasis as suva`
 [Si]ngle [nu]cleotide [v]ariant anal[ysis] ("sī-NEW-vuh-sys"):
 
 * ...
