@@ -85,23 +85,25 @@ physical, bodily, corporal (relating to the body)<br>
 <h3 align="center"> Top directory executive function modules: </h3>
 
 
-# Firegrail
-[Fi]gu[re] [g]ene[ra]t[i]on of a[l]lo-quantitated cfDNA:
+# import ngs.visequacef as vzcd
+
+[Vis]uali[z]ation of allo-[qua]ntitated [ce]ll-[f]ree DNA:
 
 * The primary module of the this package.
 * Facilitates single-line, ultra-simple invocation of vivid, to-the-point, bare-as-can-be visualizations that retain capture of all data characteristics essential for proving the conclusion being presented.
-* Strives to achieve: i) Not-overly-complex display of multivariate correlations whether linear/nonlinear/absolute/relative (avoids 3D), ii) Accurate scale representation (true transparency), iii) Dimensionality reduction as beneficial, iv) Judicious use of color & shape combinations, v) Correct choice of best-suited plot type (e.g., usually bar graphs win over violin-plots for quick & effective relative comparisons).
+* Strives to achieve: i) Not-o verly-complex display of multivariate correlations whether linear/nonlinear/absolute/relative (avoids 3D), ii) Accurate scale representation (true transparency), iii) Dimensionality reduction as beneficial, iv) Judicious use of color & shape combinations, v) Correct choice of best-suited plot type (e.g., usually bar graphs win over violin-plots for quick & effective relative comparisons).
 * Defines a comprehensive suite of functions for QC-metrics & descriptive stats for interpretation of NGS output, including secondary pipeline analysis, tertiary analysis, and "post-tertiary QC" analysis
 * Imparts a stripped-clean, refreshingly plain, high-resolution image that puts to rest <i>all unease & all your dread of pixelation-asphyxiation</i>.
 * Top-level figure objects come fully-loaded allowing vast permutations of parameter configurations and essentially unlimited customizabilit. ~1,350 matplotlib network-linked attribute objects -- e.g. axes, ticks, tick_labels, spines, grid, legend, etc.; by default hidden and set to maximize universal pliability, but if desired robustly amenable to complex personalization.
 
 ~~~ python
 # code examples
-ngs.firegrail.waterfalls(samples, vcf, [...])
+vzcd.waterfalls(samples, vcf, [...])
 ~~~
 
 
 # Genocord
+`import ngs.genocord as gnco`
 [Geno]type con[cord]ance:
 
 * ...
@@ -112,6 +114,7 @@ ngs.firegrail.waterfalls(samples, vcf, [...])
 ~~~
 
 # Nuclanote
+`import ngs.nuclanote as nuno`
 [Nucl]eotide [a]n[not]ation [e]valuation:
 
 * ...
@@ -121,7 +124,8 @@ ngs.firegrail.waterfalls(samples, vcf, [...])
 # code example
 ~~~
 
-# Panomatic
+# Pandauto 
+`import ngs.pandauto as pdto`
 [Pan]das-driven aut[omatic] organization:
 
 * of data through DataFrames for required input to pipeline, genotyping, and qc.
@@ -132,6 +136,7 @@ ngs.firegrail.waterfalls(samples, vcf, [...])
 ~~~
 
 # Quantallo
+`import ngs.quantallo as qtlo`
 [Quant]itation of %-"[allo]"-cfDNA:
 
 * e.g. solid organ donor-derived, tumor-derived somatic, etc.
@@ -143,7 +148,8 @@ ngs.firegrail.waterfalls(samples, vcf, [...])
 # code example
 ~~~
 
-# Sinuvysis
+# Sinuvasis
+`import ngs.sinuvasis as suva`
 [Si]ngle [nu]cleotide [v]ariant anal[ysis] ("sī-NEW-vuh-sys"):
 
 * ...
