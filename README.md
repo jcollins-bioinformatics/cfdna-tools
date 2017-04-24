@@ -8,9 +8,9 @@ analysis & visualization tools
 ~$ python3
 >>> import nexgendx as ngdx
 >>>
->>> import ngdx.visequacef as vzcf 
 >>> import ngdx.pandagea as pdga 
 >>> import ngdx.quantallo as qtlo
+>>> import ngdx.visequacef as vzcf 
 >>> 
 >>> very basic
 >>> nice illustrative
