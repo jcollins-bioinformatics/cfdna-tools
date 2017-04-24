@@ -89,12 +89,10 @@ physical, bodily, corporal (relating to the body)<br>
 
 [Vis]uali[z]ation of allo-[qua]ntitated [ce]ll-[f]ree DNA:
 
-* The primary module of the this package.
-* Facilitates single-line, ultra-simple invocation of vivid, to-the-point, bare-as-can-be visualizations that retain capture of all data characteristics essential for proving the conclusion being presented.
-* Strives to achieve: i) Not-o verly-complex display of multivariate correlations whether linear/nonlinear/absolute/relative (avoids 3D), ii) Accurate scale representation (true transparency), iii) Dimensionality reduction as beneficial, iv) Judicious use of color & shape combinations, v) Correct choice of best-suited plot type (e.g., usually bar graphs win over violin-plots for quick & effective relative comparisons).
+* The primary module of this package.
+* Facilitates single-line, ultra-simple invocations for vivid + impactful analytical visualization
 * Defines a comprehensive suite of functions for QC-metrics & descriptive stats for interpretation of NGS output, including secondary pipeline analysis, tertiary analysis, and "post-tertiary QC" analysis
-* Imparts a stripped-clean, refreshingly plain, high-resolution image that puts to rest <i>all unease & all your dread of pixelation-asphyxiation</i>.
-* Top-level figure objects come fully-loaded allowing vast permutations of parameter configurations and essentially unlimited customizabilit. ~1,350 matplotlib network-linked attribute objects -- e.g. axes, ticks, tick_labels, spines, grid, legend, etc.; by default hidden and set to maximize universal pliability, but if desired robustly amenable to complex personalization.
+* (RE:Goal: stripped-clean, refreshingly plain, high-resolution images)
 
 ~~~ python
 # code examples
