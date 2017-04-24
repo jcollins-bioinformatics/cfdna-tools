@@ -8,13 +8,13 @@ analysis & visualization tools
 ~$ python3
 >>> import nexgendx as ngdx
 >>>
->>> import nexgendx.genocord as gcor
+>>> import nexgendx.genecords as gcor
 >>> import nexgendx.nuclanote as ncan
->>> import nexgendx.pandagea as pdga 
+>>> import nexgendx.pandagaea as pdga 
 >>> import nexgendx.quantallo as qtlo
->>> import nexgendx.sinuvysis as suva
->>> import nexgendx.somation as soma
->>> import nexgendx.visequacef as vzcf 
+>>> import nexgendx.sinuvysis as siva
+>>> import nexgendx.somations as soma
+>>> import nexgendx.vsequacef as vzcf 
 >>> 
 >>> very basic
 >>> nice illustrative
