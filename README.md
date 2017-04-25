@@ -9,7 +9,7 @@ analysis & visualization tools
 >>> import nexgendx as ngdx
 >>>
 >>> import nexgendx.genecords as gcor
->>> import nexgendx.nuclanote as ncan
+>>> import nexgendx.nuclanote as nuca
 >>> import nexgendx.pandagaea as pdga 
 >>> import nexgendx.quantallo as qtlo
 >>> import nexgendx.sinuvysis as siva
