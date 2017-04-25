@@ -129,7 +129,7 @@ NOT INTENDED FOR COMMERCIAL USE.
 
 <div align="center">
 
-``⊰♘𝚿⚔⊱ 2017 | J.Collins | ⚕ nexgendx.``                            ➉❶①⓪🄵🅡ⓔⓔ🄲🅾ⓓⓔ㊝①➓➀
+``⊰♘𝚿⚔⊱ 2017 | J.Collins | ⚕ nexgendx.``                                     ➉❶①⓪🄵🅡ⓔⓔ🄲🅾ⓓⓔ㊝①➓➀
 
 <br>
 
