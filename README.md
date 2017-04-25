@@ -29,13 +29,13 @@ shell:~$ python3
 ...     val=this_col, # point to col containing alt. allele freqs
 ... )
 >>> # Generate a seaborn clustermap, and Bokeh interactive heatmap
->>> vzcf.visgen_corr_matrix_all(df_SNP_alt_allele_corr)
+>>> vzcf.corr_matrix_all(df_SNP_alt_allele_corr)
 >>>
 >>> # Assess assay specificty/sensitivity via reference std.
 ... # control sample, e.g. NIST Genome in a Bottle
 >>> bench_cords = gcor.assess_concordance(
-...     df_all_SNP, 
-...     benchmark_ref_std
+...     control=df_all_SNP, 
+...     truth=benchmark_ref_std
 ... )
 >>> vzcf.visgen(bench_cords)
 ```
