@@ -16,6 +16,7 @@ shell:~$ python3
 >>> import nexgendx.vsequacef as vzcf 
 >>> 
 >>> df_vcf = pdga.load_vcf('./path-to-test.vcf', [options])
+>>>
 >>> # reorganize vcf into dataframe, + some additional calculated 
 ... # metrics (mean error freq, alt. allele freq., etc)
 >>> df_vcf_stats = pdga.get_stats_for_vcf(df_vcf)
@@ -25,8 +26,8 @@ shell:~$ python3
 ... # matrix of pearson correlation coefficients
 >>> df_SNP_alt_allele_corr = pdga.gen_corr_matrix(
 ...     input_df=df_vcf_stats,
-...     index=index, # should be sample name
-...     val=this_col, # point to col containing alt. allele freqs
+...     index=index, 
+...     val=this_col, 
 ... )
 >>> # Generate a seaborn clustermap, and Bokeh interactive heatmap
 >>> vzcf.corr_matrix_all(df_SNP_alt_allele_corr)
