@@ -5,9 +5,8 @@ analysis & visualization tools
 </h1>
 
 ```py
-~$ python3
+shell:~$ python3
 >>> import nexgendx as ngdx
->>>
 >>> import nexgendx.genecords as gcor
 >>> import nexgendx.nuclanote as nuca
 >>> import nexgendx.pandagaea as pdga 
@@ -16,26 +15,29 @@ analysis & visualization tools
 >>> import nexgendx.somations as soma
 >>> import nexgendx.vsequacef as vzcf 
 >>> 
->>> very basic
->>> nice illustrative
->>> example 
->>> 
->>> e.g.,
 >>> df_vcf = pdga.load_vcf('./path-to-test.vcf', [options])
->>> # reorganize vcf into dataframe, plus some additional calculated 
->>> # metrics (mean error freq, alt. allele freq., etc)
+>>> # reorganize vcf into dataframe, + some additional calculated 
+... # metrics (mean error freq, alt. allele freq., etc)
 >>> df_vcf_stats = pdga.get_stats_for_vcf(df_vcf)
 >>> vzcf.numeric_hist(df_vcf_stats)
 >>> 
+>>> # Generate a sample-pairwise variant-frequency-based
+... # matrix of pearson correlation coefficients
 >>> df_SNP_alt_allele_corr = pdga.gen_corr_matrix(
-        input_df=df_vcf_stats,
-        index=index, # should be sample name
-        val=this_col, # point to col containing alt. allele freqs
-    )
->>>
->>> # Generate a seaborn clustermap, and Bokeh interactive heatmap :
+...     input_df=df_vcf_stats,
+...     index=index, # should be sample name
+...     val=this_col, # point to col containing alt. allele freqs
+... )
+>>> # Generate a seaborn clustermap, and Bokeh interactive heatmap
 >>> vzcf.visgen_corr_matrix_all(df_SNP_alt_allele_corr)
 >>>
+>>> # Assess assay specificty/sensitivity via reference std.
+... # control sample, e.g. NIST Genome in a Bottle
+>>> bench_cords = gcor.assess_concordance(
+...     df_all_SNP, 
+...     benchmark_ref_std
+... )
+>>> vzcf.visgen(bench_cords)
 ```
 
 
