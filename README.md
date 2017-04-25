@@ -5,7 +5,7 @@ analysis & visualization tools
 </h1>
 
 ```py
-shell:~$ python3
+u:~$ python3
 >>> import nexgendx as ngdx
 >>> import nexgendx.genecords as gcor
 >>> import nexgendx.nuclanote as nuca
