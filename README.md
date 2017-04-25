@@ -31,9 +31,11 @@ shell:~$ python3
 ... )
 >>> # Generate a seaborn clustermap, and Bokeh interactive heatmap
 >>> vzcf.corr_matrix_all(df_SNP_alt_allele_corr)
+```
 
-<img src="./example/correlation_matrix_N=98_2017-04-2012:14:49.528966.png" width=50%>
+<img src="./examples/correlation_matrix_N=98_2017-04-2012:14:49.528966.png" width=30%>
 
+```
 >>> # Assess assay specificty/sensitivity via reference std.
 ... # control sample, e.g. NIST Genome in a Bottle
 >>> bench_cords = gcor.assess_concordance(
