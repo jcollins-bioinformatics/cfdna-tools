@@ -14,7 +14,9 @@ shell:~$ python3
 >>> import nexgendx.sinuvysis as siva
 >>> import nexgendx.somations as soma
 >>> import nexgendx.vsequacef as vzcf 
->>> 
+```
+
+```py
 >>> df_vcf = pdga.load_vcf('./path-to-test.vcf', [options])
 >>>
 >>> # reorganize vcf into dataframe, + some additional calculated 
@@ -35,7 +37,7 @@ shell:~$ python3
 
 <img src="./examples/ex_corr_matrix.png" width=60%>
 
-```
+```py
 >>> # Assess assay specificty/sensitivity via reference std.
 ... # control sample, e.g. NIST Genome in a Bottle
 >>> bench_cords = gcor.assess_concordance(
