@@ -1,4 +1,4 @@
-<img src="./doc/design/nexgendx_logo.png" width=75%>
+<img src="./doc/design/nexgendx_logo.png" width=65%>
 
 <h1 align="left" underline=0 >diagnostic cell-free DNA<br/>
 analysis & visualization tools
