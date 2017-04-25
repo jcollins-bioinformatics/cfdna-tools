@@ -108,11 +108,7 @@ Example datasets:
 ## License 
 
 
-<big>®</big> All rights reserved. Free to copy, modify, use for personal analysis/education, share with friends, 
-but not patent, sell, distribute on large-scale, use for any commerical/for-profit purposes, etc. 
-(see <a href="">my LICENSE</a>, <a href="">GATK LICENSE</a>, & <a href="">more</a>)
-
-NOT INTENDED FOR COMMERCIAL USE.
+<big>®</big> All rights reserved. 
 <div align="center">
 
 <br>
