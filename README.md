@@ -33,7 +33,7 @@ shell:~$ python3
 >>> vzcf.corr_matrix_all(df_SNP_alt_allele_corr)
 ```
 
-<img src="./examples/correlation_matrix_N98_2017-04-20.pdf" width=70%>
+<img src="./examples/correlation_matrix_N=98_2017-04-20.png" width=40%>
 
 ```
 >>> # Assess assay specificty/sensitivity via reference std.
